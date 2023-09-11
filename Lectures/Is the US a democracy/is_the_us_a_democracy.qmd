@@ -1,0 +1,195 @@
+---
+title: "Is the United States a Democracy?"
+format: 
+        revealjs:
+                self-contained: true
+---
+
+## Announcements
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## Today's Topic: Is the United States a democracy?
+
+                + What is a democracy?
+                + The right wing critique: Democracy is bad and the United States is a Republic not a Democracy (Madison)
+                + The left wing critique: Democracy is good and the United States fails to meet democratic standards (Assorted)
+                
+## What is a Democracy?
+
+- Accurate understanding requires definition
+
+- Word roots:
+
+                + demos: the people
+                + cracy: a form of government
+
+Democracy - rule by the people
+
+## Democracy or Not Democracy
+
++ United Kingdom
++ Sweden
++ Denmark
++ France
++ Japan (current)
++ People's Republic of China
++ Soviet Union
++ Nazi Germany
++ Fascist Italy
+
+## Characteristics of democracy
+
++ Meaningful elections 
+
+                + Contestation - Party in power can lose
+                
++ Irreversability of elections
+
+                + Party in power can not reverse a lost election
+                
++ Repeatability of elections 
+
+                + Political minorities (losing parties) must be protected
+
+## Rules to determine if these are true
+
++ Near universal adult citizen suffrage
+
+                                + Limits on convicted criminals voting          
+                                + Noncitizens not entitled to vote
+
++ The chief executive must be elected directly or indirectly
+
+                                + Prime ministers are elected from the ranks of parliament
+                        
++ Elected legislature
+
+                                + At least one chamber
+                                + An unelected chamber is allowed
+                                + Direct democracy not required!
+                                
++ There must be more than one party
+
+                                + Organized opposition
+                                + Continues between elections
+
+
+## Democracy or Not Democracy
+
++ United Kingdom - Y
++ Sweden - Y
++ Denmark - Y
++ France - Y
++ Japan (current) - Y
++ People's Republic of China - N
++ Soviet Union - N
++ Nazi Germany - N
++ Fascist Italy - N
+
+
+## Right Wing Critique
+
+- Modern: "The United States is a Republic not a Democracy."
+- This is mostly a result of 18th century (1780s) terminology and earlier
+- This also considers **Aristotle's** view that democracy was corrupt
+- It's also a result of people taking seriously the very writings of one person: **James Madison**
+- These folks argue that the US is not a democracy and that is a good thing
+
+## Aristotle Types of Government
+
+![Types of Government](govt_types.jpg)
+
+
+## James Madison
+
++ Framer of the *Constitution*
++ Coauthor of the *Federalist Papers*
++ concerned with preventing "mob rule" type democracy
++ Very much a student of Aristotle
++ Referred to the United States system as **representative government** and called it a **Republic**
+
+
+## Questions about modern democracy
+
+Is modern democracy Madison's mob rule or Madison's Republic?
+
+Is modern democracy a good protector of rights?
+
+
+## James Madison on Democracy
+
++ "The essence of Government is **power**; and power, lodged as it must in human hands, will ever be liable to abuse." -- 1787
+
++ "Place three individuals in a situation wherein the interest of each depends on the voice of the others, and give to two of them an interest opposed to the rights of the third. Will the latter be secure? The prudence of every man would shun the danger. The rules & forms of justice suppose & guard against it. Will two thousand in a like situation be less likely to encroach on the rights of one thousand?" -- 1821
+
+## Madison's Republic
+
+-   Representative government not direct
+-   Limited franchise
+-   Protection of political minorities
+-   Opposition to one party rule - protection against party domination
+-   Fragmentation of parties to divide their power
+-   Protection of basic civil liberties (Madison - Bill of Rights)
+-   Protection of property rights
+
+
+## Modern Western or liberal democracy
+
+-   Representative government not direct
+-   Universal franchise (or near)
+-   Protection of political minorities
+-   Opposition to one party rule - protection against party domination
+-   Fragmenation of parties to divide their power
+
+    ```         
+              + US and British style  systems - no  
+              + Proportional representation systems - yes
+    ```
+
+-   Protection of basic civil liberties
+-   Protection of property rights
+
+## Republic vs Liberal Democracy and the United States
+
++ Modern liberal democracies have all major features of Madison's Republic except limited franchise
++ Some modern liberal democracies have Madison's fragmentation of parties to divide power
++ The United States lacks two features of Madison's Republic - limited franchise and effective fragmentation of parties to divide power  
+
+## The Left Wing Critique
+
++ Democracy is good
++ The United States is not a democracy because:
+
+                + Electoral College
+                + Supreme Court
+                + Economic inequality
+
+## Electoral College
+
++ Chief executive must be elected **directly or indirectly**
++ Electoral college is unique, but indirect election is not
++ Prime ministers are elected by parliament in 32 of the 50 members of the European Union
++ Prime ministers are elected by parliament in 50 out of 89 electoral and liberal democracies in the world
++ Prime ministers are elected by parliament in 42 out of 67 liberal democracies
++ **The chief executive is indirectly elected in the majority of democracies**
+
+## Supreme Court - Major Issues
+
++ The Supreme Court may block laws passed by the elected branches
++ The Supreme Court blocks majority rule
+
+## Supreme Court - Responses
+
+Blocking majority rule to protect minority rights is crucial to a functioning democracy and this is the Supreme Court's role
+
++ The rule of law is major characteristic of liberal democracy
++ Rights of political minority's must be protected to ensure they can contest the next election
++ Liberal democracy is partially defined by the idea that citizens have rights that a simple majority can not take away
++ We may not like the outcome in a specific case, but the process of protecting rights guarantees our own rights
+
+## Economic inequality
+
++ This is a complaint about outcomes, not really anything to do with the political system
++ This is actually a complaint about the *result of the democratic process* not about a lack of democratic process
++ Bottom line: There may be issues with economic inequality, but if we believe in democracy then the appropriate response is to solve the issue in a democratic way

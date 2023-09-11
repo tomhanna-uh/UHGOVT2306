@@ -1,0 +1,142 @@
+---
+title: "Federalism"
+author: "GOVT2306, Instructor: Tom Hanna, Fall 2023, University of Houston"
+format: 
+        revealjs:
+                self-contained: true
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "GOVT2306, Fall 2023, Instructor: Tom Hanna"
+---
+
+## Today's Class
+
++ Announcements
++ Extra Credit Quiz Answers
++ Review
++ Federalism
+
+## Announcements
+
+- I am adding a "recommended schedule" for Chapter assignments in Canvas. This is only to help you meet the final deadline for the Unit.
+- I will be sending reminders to those who are behind schedule from Canvas Gradebook. There is no need to reply to these.
+-  Syllabus Quiz: Get Out of Jail Free supersedes Late Policy
+
+                -  The correct answer for Question 10 "I didn't finish an assignment on time, I should?" should be: If it is my first missed assignment, I can use my Get Out of Jail Free Card to drop the grade. If I have already used my Get Out of Jail Free card, there are no extensions.
+
+## Extra Credit Quiz Answers
+
+The Extra Credit Quiz Answers are based on actual federal budget data from the US Department of the Treasury from 2021 last fiscal year:
+
+[Preview](https://fiscaldata.treasury.gov/americas-finance-guide/federal-spending/){preview-link="false"}
+
+Goals: Understand the problems. Understand the solutions.. Argue more effectively for what you want.
+
+## Question 1
+
+Of the four following categories, which does the federal government spend the most on?
+
+a. police
+b. national defense
+c. healthcare
+d. veteran's benefits
+
+## Question 1: Answer 
+
+Of the four following categories, which does the federal government spend the most on?
+
+Correct answer C
+
+a. police - in "other" category, unknown share of 4%
+b. national defense - 13% of budget
+c. HEALTHCARE - 14% plus 12% for Medicare
+d. veteran's benefits - 4% of budget
+
+## Question 2 
+
+Of the following categories of spending, which does the federal government spend the most on?
+
+                a - interest on the national debt
+                b - national defense
+                c - social welfare spending
+                d - transportation
+
+## Question 2: Answer 
+
+Of the following categories of spending, which does the federal government spend the most on?
+
+Correct answer: C - social welfare spending
+
+                a - interest on the national debt - 9%
+                b - national defense - 13%
+                c - social welfare spending - 65% including healthcare, 39% excluding healthcare
+                d - transportation - 2%
+
+## Question 3
+
+Of the following categories of spending, which does the federal government spend the most on?
+
+                a - customs and immigration
+                b - healthcare
+                c - national defense
+                d - veteran's benefits
+
+## Question 3: Answer
+
+Of the following categories of spending, which does the federal government spend the most on?
+
+Correct answer: b - HEALTHCARE
+
+                a - customs and immigration - included in "other" less than 4%
+                b - healthcare - 27% including Medicare, 14% without Medicare
+                c - national defense - 13%
+                d - veteran's benefits - 4%
+
+## Question 4
+
+If we combine national defense spending and veteran's spending to create a category called "defense related spending," which of the following categories gets the largest share of federal spending?
+
+                a - defense related spending
+                b - Social Security
+                c - Medicare
+
+
+## Question 4: Answer
+
+If we combine national defense spending and veteran's spending to create a category called "defense related spending," which of the following categories gets the largest share of federal spending?
+
+Correct Answer: b - Social Security
+
+                a - defense related spending - 17%
+                b - Social Security - 21%
+                c - Medicare - 12%
+
+## Question 5
+
+Which of these gets the largest share of federal spending? Consider these categories:
+
+                a. Courts and police of all types
+                b. Defense related = national defense plus veteran's benefits and services
+                c. Senior citizens benefits = Social Security and Medicare
+                d. Welfare for non-seniors
+
+## Question 5
+
+Which of these gets the largest share of federal spending? Consider these categories:
+
+Correct Answer: C - Senior citizens benefits at 33%
+d. Welfare for non-seniors is close at 32%
+
+                a. Courts and police of all types - less than 4$
+                b. Defense related = national defense plus veteran's benefits and services - 17%
+                c. Senior citizens benefits = Social Security and Medicare - 33%
+                d. Welfare for non-seniors - 32% 
+
+
+## Review
+
+## Quiz
+
+## Federalism
+
+
