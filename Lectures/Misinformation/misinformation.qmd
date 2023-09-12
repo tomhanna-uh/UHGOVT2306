@@ -1,0 +1,301 @@
+---
+title: "Misinformation and Disinformation"
+author: "GOVT2306, Instructor: Tom Hanna, Fall 2023, University of Houston"
+format: 
+        revealjs:
+                self-contained: true
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "GOVT2306, Fall 2023, Instructor: Tom Hanna"
+---
+
+## Today's Class
+
++ Announcements
++ Misinformtion, Disinformation, EC Quiz Answers
++ Next class: Federalism
+
+## Announcements
+
+- I am adding a "recommended schedule" for Chapter assignments in Canvas. This is only to help you meet the final deadline for the Unit. You should be finishing Chapter 4 Inquizitives this week. Chapter 5 due September 20..
+- I will be sending reminders to those who are behind schedule from Canvas Gradebook. There is no need to reply to these.
+-  Syllabus Quiz: Get Out of Jail Free supersedes Late Policy
+
+                -  The correct answer for Question 10 "I didn't finish an assignment on time, I should?" should be: If it is my first missed assignment, I can use my Get Out of Jail Free Card to drop the grade. If I have already used my Get Out of Jail Free card, there are no extensions.
+                
+## Misinformation, Disinformation, and Information Consumers
+
+- Information consumers: US! The people receiving and acting on the information
+- Misinformation: false or misleading information that is unknowingly shared
+- Disinformation: false or misleading information that is purposely created and distributed
+
+                - Out of context: missing surrounding words and circumstances, real meaning may be the opposite
+                - Unusual definitions: different meaning than normal speech of the *information consumer* 
+                - Lies
+                
+## Three kinds of lies
+
+**“There are three kinds of lies: lies, damned lies, and statistics.”** 
+
+Attributed to:
+
+                - Benjamin Disraeli
+                - Mark Twain
+                - Aldous Huxley
+                - Leonard Henry, Baron Courtney of Penwith
+                
+Related: **"Liars, damned liars, and experts!"**
+
+## 55% of Budget for Defense
+
+![55percent_defense meme](55percent_defense.jpg)
+
+## Unusual Definitions/Lack of Context
+
+![Tax Dollars Meme](tax_dollars_meme.jpg)
+
+## Unusual Definitions/Lack of Context
+
+- This meme purposely confuses two different things
+
+Simple definitions:
+
+                - Discretionary: set in every budget
+                - Nondiscretionary: set far in advance
+                - Total budget: Discretionary plus Nondiscretionary
+                
+- This shows only discretionary spending
+
+                - Most spending on the little categories is nondiscretionary
+                - Virtually all defense spending is discretionary
+
+- If we show the total budget, the picture changes drastically
+- If we show only nondiscretionary, the rocket disappears
+
+
+## Why is this a problem?
+
+"This week on Facebook I ran into a couple of memes about the defense budget that I thought were worth addressing. While the **core message that the United States spends too much on the military is sound**, these particular memes are so **massively misleading** that I think it would be irresponsible to let them go unanswered..."
+
+"Our education spending is about average (though somehow we do it so inefficiently that we don’t provide college for free, unlike Germany, France, Finland, Sweden, or Norway)...How about a meme about that?"
+
+[Human Economics](https://patrickjuli.us/2015/09/30/how-not-to-talk-about-the-defense-budget/)
+
+## Practical and Moral Dimension
+
+- Practical issue:
+
+                - If you believe in something, is it better to make an honest argument that you can back up with facts or to resort to misinformation, disinformation, distortions, and lies?
+
+                - What happens if someone arguing for something gets caught lying? What do the people listening think?
+                
+                - Which is more effective?
+                
+- Moral Dimension
+
+                - Do you personally want to unknowingly spread disinformation?
+
+
+
+
+<!-- ## Healthcare, Climate Change: Important Issues! -->
+
+
+
+<!-- “We have a planetary crisis in terms of climate change. Our health care system is broken and dysfunctional. Our educational system is teetering. Our housing stock is totally inadequate. And these are just some of the crises facing our country,” [Senator Bernie Sanders] said. -->
+
+<!-- - **Mostly true. A little exaggeration, but deserves discussion!** -->
+
+<!-- - **How do you want to argue for these issues effectively?** -->
+
+<!-- - **If you disagree, how do you want to respond?** -->
+
+                                -https://thehill.com/homenews/senate/4124631-these-11-senators-voted-against-the-must-pass-defense-spending-bill/
+
+
+
+## Do This Now
+
+Do This Now
+
+## Extra Credit Quiz Answers
+
+The Extra Credit Quiz Answers are based on actual federal budget data from the US Department of the Treasury from 2021 last fiscal year:
+
+[Preview](https://fiscaldata.treasury.gov/americas-finance-guide/federal-spending/){preview-link="false"}
+
+Goals: Understand the problems. Understand the solutions. Argue more effectively for what you want. Don't spread misinformation and look dishonest. 
+
+
+
+## Healthcare vs Defense Spending               
+
+![defense healthcare coronavirus meme](defense_healthcare_coronavirus_meme.jpg)
+
+
+
+## Question 1
+
+Of the four following categories, which does the federal government spend the most on?
+
+a. police
+b. national defense
+c. healthcare
+d. veteran's benefits
+
+## Question 1: Answer 
+
+Of the four following categories, which does the federal government spend the most on?
+
+Correct answer C
+
+a. police - in "other" category, unknown share of 4%
+b. national defense - 13% of budget
+c. HEALTHCARE - 14% plus 12% for Medicare
+d. veteran's benefits - 4% of budget
+
+
+## Healthcare vs Defense Spending   
+
+Honest meme: Healthcare should be twice as big as defense!
+
+![defense healthcare coronavirus meme](defense_healthcare_coronavirus_meme.jpg)
+
+# Social Spending: Is this true?
+
+“It just happens,” [Senator Bernie Sanders] said. “We don’t worry about people sleeping out on the street...”
+
+https://thehill.com/homenews/senate/4124631-these-11-senators-voted-against-the-must-pass-defense-spending-bill/
+
+
+## Question 2 
+
+Of the following categories of spending, which does the federal government spend the most on?
+
+                a - interest on the national debt
+                b - national defense
+                c - social welfare spending
+                d - transportation
+                
+
+
+## Question 2: Answer 
+
+Of the following categories of spending, which does the federal government spend the most on?
+
+Correct answer: C - social welfare spending
+
+                a - interest on the national debt - 9%
+                b - national defense - 13%
+                c - social welfare spending - 65% including healthcare, 39% excluding healthcare. Does NOT include veteran's benefits!
+                d - transportation - 2%
+
+# Social Spending: Is this true?
+
+Based on the budget, this isn't true at least for federal spending. 
+
+Not based on private charitable spending *as a percent of national income* either [List of countries by charitable spending](https://en.wikipedia.org/wiki/List_of_countries_by_charitable_donation_as_percentage_of_GDP)
+
+“It just happens,” [Senator Bernie Sanders] said. “We don’t worry about people sleeping out on the street...”
+
+                                - [source:](https://thehill.com/homenews/senate/4124631-these-11-senators-voted-against-the-must-pass-defense-spending-bill/)
+
+
+
+                
+## Election Budget vs Healthcare Spending
+
+![election_healthcare_budget_meme](election_healthcare_budget_meme.jpg)
+
+## Question 3
+
+Of the following categories of spending, which does the federal government spend the most on?
+
+                a - customs and immigration
+                b - healthcare
+                c - national defense
+                d - veteran's benefits
+
+## Question 3: Answer
+
+Of the following categories of spending, which does the federal government spend the most on?
+
+Correct answer: b - HEALTHCARE - $741 billion plus $657 billion for Medicare vs $2 billion for that election
+
+                a - customs and immigration - included in "other" less than 4%
+                b - healthcare - 27% including Medicare, 14% without Medicare
+                c - national defense - 13%
+                d - veteran's benefits - 4%
+                
+## Election Budget vs Healthcare Spending
+
+TRUE MEME: We already spend $1,398 billion on healthcare. How much difference would $2 billion more make?
+
+RESPONSE MEME: If free healthcare only cost $6.06 per person, why does it even need to be free? I'll pay for mine and 100 other people and still save money!
+
+![election_healthcare_budget_meme](election_healthcare_budget_meme.jpg)
+
+## Biden Cutting Social Security
+
+![Biden Cut Social Security Meme](biden_cut_social.jpg)
+
+Disclaimer: I have no idea if these are true. It's just related.
+
+
+
+
+## Question 4
+
+If we combine national defense spending and veteran's spending to create a category called "defense related spending," which of the following categories gets the largest share of federal spending?
+
+                a - defense related spending
+                b - Social Security
+                c - Medicare
+
+
+## Question 4: Answer
+
+If we combine national defense spending and veteran's spending to create a category called "defense related spending," which of the following categories gets the largest share of federal spending?
+
+Correct Answer: b - Social Security
+
+                a - defense related spending - 17%
+                b - Social Security - 21%
+                c - Medicare - 12%
+                
+                
+## Trump Cutting Social Security
+
+![Biden say Trump will cut social security meme](biden_trump_social.jpg)
+
+Disclaimer: No idea if this is true either, it's just funny given the Biden meme!
+
+## Question 5
+
+Which of these gets the largest share of federal spending? Consider these categories:
+
+                a. Courts and police of all types
+                b. Defense related = national defense plus veteran's benefits and services
+                c. Senior citizens benefits = Social Security and Medicare
+                d. Welfare for non-seniors
+
+## Question 5
+
+Which of these gets the largest share of federal spending? Consider these categories:
+
+Correct Answer: C - Senior citizens benefits at 33%
+d. Welfare for non-seniors is close at 32%
+
+                a. Courts and police of all types - less than 4$
+                b. Defense related = national defense plus veteran's benefits and services - 17%
+                c. Senior citizens benefits = Social Security and Medicare - 33%
+                d. Welfare for non-seniors - 32% 
+
+## Next version
+
+We will revisit this topic at least once more during the semester and you can expect I will pick on a Republican Senator!
+
+
+
+
+
