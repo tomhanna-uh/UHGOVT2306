@@ -1,0 +1,169 @@
+---
+title: "Federalism"
+author: "GOVT2306, Instructor: Tom Hanna, Fall 2023, University of Houston"
+date: last-modified
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "GOVT2306, Fall 2023, Instructor: Tom Hanna"
+---
+
+## Agenda
+
+- Announcements and questions
+- Review
+- Federalism
+- Next class: The Bill of Rights
+
+## Announcements
+
+## Review
+
+- Government's unique tool is organized coercive force
+- Coercive force is dangerous to individual rights
+- The Constitution was intended to restrain organized coercive force
+- It did this partly by dividing power (separation of powers)
+- System of Checks and Balances among the separate powers
+- One division of power is Federalism: Federal vs State power
+
+
+## Federalism: Definitions
+
+-   Sovereignty: Supreme and final governing authority.
+
+- Unitary system: the national government is completely sovereign
+                
+- Confederation: The states or similar lower level governments are completely sovereign
+                
+- Federalism: Sovereignty is shared between national and state governments
+
+## Three meanings of ball
+
+- an orange sphere we play basketball with
+
+![Cougar Basketball](cougar_basketball.jpg)
+
+## Three meanings of ball
+
+- an orange sphere we play basketball with
+- an oblong brown object we play American football with
+
+![Cougar Football](cougar_football.jpg)
+
+## Three meanings of ball
+
+- an orange sphere we play basketball with
+- an oblong brown object we play American football with
+-  a nearly spherical object with 32 flat faces that we play football or soccer with 
+
+
+![Soccer ball](soccer_ball.jpg)
+
+
+## Three meanings of ball
+
+This isn't **just** to be silly: 
+
+- Balls are not all the same
+
+Question:
+
+- Is it possible to fit a ball inside a larger ball? 
+
+## Three meanings of ball
+ 
+- This isn't just to be silly: Is it possible to fit a ball inside a larger ball? 
+
+![Balls within a ball](balls_within_ball.jpg)
+
+
+## Three meanings of state
+
+- A reference to any government as "the state"
+- Any of the independent sovereign actors in the international system. A sovereign government such as a nation like France or an independent city-state like Singapore
+- A subdivision in a federal or confederal system like the United States
+
+
+
+ 
+## Unitary systems
+
+- National government is supreme and holds all sovereignty
+
+- Do they have lower level governments? (States, cities, etc.)
+
+                - Yes! But those governments get their power solely from the national government and the national government can abolish the lower units, change their powers, or overrule decisions at any time.
+                
+- Most countries are unitary states 
+
+                - 166 of 193 United Nations Members                
+
+- Examples:
+
+                - People's Republic of China
+                - Republic of China (Taiwan)
+                - France
+                - Finland
+                - Sweden
+                
+## Confederation
+
+- The states are completely sovereign 
+
+- The sovereign units  may be called states, republics, kingdoms, principalities, or other names associated with *sovereign states*
+
+- Also called a *confederacy* or a *league*
+
+- Is there a central or national  government? 
+
+                - Yes! But the national government gets it power solely from the state governments and the state governments can abolish the central government, change its powers, ignore its decisions, or even overrule its decisions at any time.
+                
+- Examples:
+
+                - Benelux states (Belgium, Netherlands and Luxembourg)
+                - European Union
+                - Switzerland
+                - Union State of Russia and Belarus
+                - United Colonies of New England (1643-1689)
+                - united States of America (1776-1789)
+                - Confederate States of America
+                - Commonwealth of Independent States (1991-??)
+                
+## Federalism
+
+- Also called *federal systems* or *federalist systems*
+
+- The central or national government is also called the *federal government*
+
+- Sovereignty is shared between the state and national governments
+
+                - The powers of state and national governments are defined in a constitution
+                - The national government may not change the powers of the states
+                - The state governments may not change the powers of the national government
+                - Each level's powers are binding on the other in its own proper sphere of influence
+                
+
+
+## Federations (Federal systems)
+
+- There are 27 federations in the world
+
+- Examples:
+
+                - Australia
+                - Canada
+                - Brazil
+                - Estados Unidos Mexicanos
+                - Germany
+                - Russian Federation
+                - United Arab Emirates
+                
+- and The United States of America
+
+
+                
+
+                
