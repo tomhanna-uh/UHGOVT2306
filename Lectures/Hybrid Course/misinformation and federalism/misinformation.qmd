@@ -1,0 +1,579 @@
+---
+title: "Misinformation and Disinformation plus Origins of Federalism"
+author: "GOVT2306, Instructor: Tom Hanna, Fall 2023, University of Houston"
+format: 
+        revealjs:
+                self-contained: true
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "GOVT2306, Fall 2023, Instructor: Tom Hanna"
+---
+
+## Today's Class
+
++ Announcements - Discussion
++ Part 1: Misinformtion, Disinformation, EC Quiz Answers
++ Part 2: Origins of Federalism
+
+## Announcements
+
+- How many hours a week should you spend outside of class on this course? Face-to-face class answer plus extra 80 minutes
+
+- You signed up for a hybrid course, so that assumes a high level of competence in navigating online
+
+- If you are having trouble navigating Canvas, you need to come to office hours this afternoon
+
+-  Syllabus Quiz: Get Out of Jail Free supersedes Late Policy reference in Syllabus Quiz
+
+## Announcements 2
+
+- I am adding a "recommended schedule" for Chapter assignments in Canvas. 
+
+                - Due dates are unchanged
+                - Chapter 4 Inquizitives this week (recommended) 
+                - Chapters 1 to 5 due September 20 (DEADLINE!)
+               
+- I will be sending reminders to those who are behind schedule from Canvas Gradebook every one to two weeks. 
+
+                - There is no need to reply to the reminders.
+                - Nothing to apologize for.
+                - Thank yous were appreciated but not needed.
+                
+- Questions: During question time (NOW!) or office hours
+                
+
+## Misinformation, Disinformation, and Information Consumers
+
+- Information consumers: US! The people receiving and acting on the information
+- Misinformation: false or misleading information that is unknowingly shared
+- Disinformation: false or misleading information that is purposely created and distributed
+
+                - Out of context: missing surrounding words and circumstances, real meaning may be the opposite
+                - Unusual definitions: different meaning than normal speech of the *information consumer* 
+                - Lies
+                
+## Three kinds of lies
+
+**“There are three kinds of lies: lies, damned lies, and statistics.”** 
+
+Attributed to:
+
+                - Benjamin Disraeli
+                - Mark Twain
+                - Aldous Huxley
+                - Leonard Henry, Baron Courtney of Penwith
+                
+Related: **"Liars, damned liars, and experts!"**
+
+## 55% of Budget for Defense
+
+![55percent_defense meme](55percent_defense.jpg)
+
+## Unusual Definitions/Lack of Context
+
+![Tax Dollars Meme](tax_dollars_meme.jpg)
+
+## Unusual Definitions/Lack of Context
+
+- This meme purposely confuses two different things
+
+Simple definitions:
+
+                - Discretionary: set in every budget
+                - Nondiscretionary: set far in advance
+                - Total budget: Discretionary plus Nondiscretionary
+                
+- This shows only discretionary spending
+
+                - Most spending on the little categories is nondiscretionary
+                - Virtually all defense spending is discretionary
+
+- If we show the total budget, the picture changes drastically
+- If we show only nondiscretionary, the rocket disappears
+
+
+## Why is this a problem?
+
+"This week on Facebook I ran into a couple of memes about the defense budget that I thought were worth addressing. While the **core message that the United States spends too much on the military is sound**, these particular memes are so **massively misleading** that I think it would be irresponsible to let them go unanswered..."
+
+"Our education spending is about average (though somehow we do it so inefficiently that we don’t provide college for free, unlike Germany, France, Finland, Sweden, or Norway)...How about a meme about that?"
+
+[Human Economics](https://patrickjuli.us/2015/09/30/how-not-to-talk-about-the-defense-budget/)
+
+## Practical and Moral Dimension
+
+- Practical issue:
+
+                - If you believe in something, is it better to make an honest argument that you can back up with facts or to resort to misinformation, disinformation, distortions, and lies?
+
+                - What happens if someone arguing for something gets caught lying? What do the people listening think?
+                
+                - Which is more effective?
+                
+- Moral Dimension
+
+                - Do you personally want to unknowingly spread disinformation?
+
+
+
+
+<!-- ## Healthcare, Climate Change: Important Issues! -->
+
+
+
+<!-- “We have a planetary crisis in terms of climate change. Our health care system is broken and dysfunctional. Our educational system is teetering. Our housing stock is totally inadequate. And these are just some of the crises facing our country,” [Senator Bernie Sanders] said. -->
+
+<!-- - **Mostly true. A little exaggeration, but deserves discussion!** -->
+
+<!-- - **How do you want to argue for these issues effectively?** -->
+
+<!-- - **If you disagree, how do you want to respond?** -->
+
+                                -https://thehill.com/homenews/senate/4124631-these-11-senators-voted-against-the-must-pass-defense-spending-bill/
+
+
+
+## Do This Now
+
+Do This Now
+
+## Extra Credit Quiz Answers
+
+The Extra Credit Quiz Answers are based on actual federal budget data from the US Department of the Treasury from 2021 last fiscal year:
+
+[Preview](https://fiscaldata.treasury.gov/americas-finance-guide/federal-spending/){preview-link="false"}
+
+Goals: Understand the problems. Understand the solutions. Argue more effectively for what you want. Don't spread misinformation and look dishonest. 
+
+
+
+## Healthcare vs Defense Spending               
+
+![defense healthcare coronavirus meme](defense_healthcare_coronavirus_meme.jpg)
+
+
+
+## Question 1
+
+Of the four following categories, which does the federal government spend the most on?
+
+a. police
+b. national defense
+c. healthcare
+d. veteran's benefits
+
+## Question 1: Answer 
+
+Of the four following categories, which does the federal government spend the most on?
+
+Correct answer C
+
+a. police - in "other" category, unknown share of 4%
+b. national defense - 13% of budget
+c. HEALTHCARE - 14% plus 12% for Medicare
+d. veteran's benefits - 4% of budget
+
+
+## Healthcare vs Defense Spending   
+
+Honest meme: Healthcare should be twice as big as defense!
+
+![defense healthcare coronavirus meme](defense_healthcare_coronavirus_meme.jpg)
+
+# Social Spending: Is this true?
+
+“It just happens,” [Senator Bernie Sanders] said. “We don’t worry about people sleeping out on the street...”
+
+https://thehill.com/homenews/senate/4124631-these-11-senators-voted-against-the-must-pass-defense-spending-bill/
+
+
+## Question 2 
+
+Of the following categories of spending, which does the federal government spend the most on?
+
+                a - interest on the national debt
+                b - national defense
+                c - social welfare spending
+                d - transportation
+                
+
+
+## Question 2: Answer 
+
+Of the following categories of spending, which does the federal government spend the most on?
+
+Correct answer: C - social welfare spending
+
+                a - interest on the national debt - 9%
+                b - national defense - 13%
+                c - social welfare spending - 65% including healthcare, 39% excluding healthcare. Does NOT include veteran's benefits!
+                d - transportation - 2%
+
+# Social Spending: Is this true?
+
+Based on the budget, this isn't true at least for federal spending. 
+
+Not based on private charitable spending *as a percent of national income* either [List of countries by charitable spending](https://en.wikipedia.org/wiki/List_of_countries_by_charitable_donation_as_percentage_of_GDP)
+
+“It just happens,” [Senator Bernie Sanders] said. “We don’t worry about people sleeping out on the street...”
+
+                                - [source:](https://thehill.com/homenews/senate/4124631-these-11-senators-voted-against-the-must-pass-defense-spending-bill/)
+
+
+
+                
+## Election Budget vs Healthcare Spending
+
+![election_healthcare_budget_meme](election_healthcare_budget_meme.jpg)
+
+## Question 3
+
+Of the following categories of spending, which does the federal government spend the most on?
+
+                a - customs and immigration
+                b - healthcare
+                c - national defense
+                d - veteran's benefits
+
+## Question 3: Answer
+
+Of the following categories of spending, which does the federal government spend the most on?
+
+Correct answer: b - HEALTHCARE - $741 billion plus $657 billion for Medicare vs $2 billion for that election
+
+                a - customs and immigration - included in "other" less than 4%
+                b - healthcare - 27% including Medicare, 14% without Medicare
+                c - national defense - 13%
+                d - veteran's benefits - 4%
+                
+## Election Budget vs Healthcare Spending
+
+TRUE MEME: We already spend $1,398 billion on healthcare. How much difference would $2 billion more make?
+
+RESPONSE MEME: If free healthcare only cost $6.06 per person, why does it even need to be free? I'll pay for mine and 100 other people and still save money!
+
+![election_healthcare_budget_meme](election_healthcare_budget_meme.jpg)
+
+## Biden Cutting Social Security
+
+![Biden Cut Social Security Meme](biden_cut_social.jpg)
+
+Disclaimer: I have no idea if these are true. It's just related.
+
+
+
+
+## Question 4
+
+If we combine national defense spending and veteran's spending to create a category called "defense related spending," which of the following categories gets the largest share of federal spending?
+
+                a - defense related spending
+                b - Social Security
+                c - Medicare
+
+
+## Question 4: Answer
+
+If we combine national defense spending and veteran's spending to create a category called "defense related spending," which of the following categories gets the largest share of federal spending?
+
+Correct Answer: b - Social Security
+
+                a - defense related spending - 17%
+                b - Social Security - 21%
+                c - Medicare - 12%
+                
+                
+## Trump Cutting Social Security
+
+![Biden say Trump will cut social security meme](biden_trump_social.jpg)
+
+Disclaimer: No idea if this is true either, it's just funny given the Biden meme!
+
+## Question 5
+
+Which of these gets the largest share of federal spending? Consider these categories:
+
+                a. Courts and police of all types
+                b. Defense related = national defense plus veteran's benefits and services
+                c. Senior citizens benefits = Social Security and Medicare
+                d. Welfare for non-seniors
+
+## Question 5
+
+Which of these gets the largest share of federal spending? Consider these categories:
+
+Correct Answer: C - Senior citizens benefits at 33%
+d. Welfare for non-seniors is close at 32%
+
+                a. Courts and police of all types - less than 4$
+                b. Defense related = national defense plus veteran's benefits and services - 17%
+                c. Senior citizens benefits = Social Security and Medicare - 33%
+                d. Welfare for non-seniors - 32% 
+
+## Next version of this
+
+We will revisit this topic at least once more during the semester and you can expect I will pick on a Republican Senator!
+
+Three minutes starts now!
+
+## Federalism: Definitions
+
+-   Sovereignty: Supreme and final governing authority.
+
+- Unitary system: the national government is completely sovereign
+                
+- Confederation: The states or similar lower level governments are completely sovereign
+                
+- Federalism: Sovereignty is shared between national and state governments
+
+## Three meanings of ball
+
+- an orange sphere we play basketball with
+
+![Cougar Basketball](cougar_basketball.jpg)
+
+## Three meanings of ball
+
+- an orange sphere we play basketball with
+- an oblong brown object we play American football with
+
+![Cougar Football](cougar_football.jpg)
+
+## Three meanings of ball
+
+- an orange sphere we play basketball with
+- an oblong brown object we play American football with
+-  a nearly spherical object with 32 flat faces that we play football or soccer with 
+
+
+![Soccer ball](soccer_ball.jpg)
+
+
+## Three meanings of ball
+
+This isn't **just** to be silly: 
+
+- Balls are not all the same and...
+
+Question:
+
+- Is it possible to fit a ball inside a larger ball? 
+
+## Three meanings of ball
+ 
+- This isn't just to be silly: Is it possible to fit a ball inside a larger ball? 
+
+![Balls within a ball](balls_within_ball.jpg)
+
+
+## Three meanings of state
+
+- A reference to any government as "the state"
+- Any of the independent sovereign actors in the international system. A sovereign government such as a nation like France or an independent city-state like Singapore
+- A subdivision in a federal or confederal system like the United States
+
+
+
+ 
+## Unitary systems
+
+- National government is supreme and holds all sovereignty
+
+- Do they have lower level governments? (States, cities, etc.)
+
+                - Yes! But those governments get their power solely from the national government and the national government can abolish the lower units, change their powers, or overrule decisions at any time.
+                
+- Most countries are unitary states 
+
+                - 166 of 193 United Nations Members                
+
+- Examples:
+
+                - People's Republic of China
+                - Republic of China (Taiwan)
+                - France
+                - Finland
+                - Sweden
+                
+## Confederation
+
+- The states are completely sovereign 
+
+- The sovereign units  may be called states, republics, kingdoms, principalities, or other names associated with *sovereign states*
+
+- Also called a *confederacy* or a *league*
+
+- Is there a central or national  government? 
+
+                - Yes! But the national government gets it power solely from the state governments and the state governments can abolish the central government, change its powers, ignore its decisions, or even overrule its decisions at any time.
+                
+- Examples:
+
+                - Benelux states (Belgium, Netherlands and Luxembourg)
+                - European Union
+                - Switzerland
+                - Union State of Russia and Belarus
+                - United Colonies of New England (1643-1689)
+                - united States of America (1776-1789)
+                - Confederate States of America
+                - Commonwealth of Independent States (1991-??)
+                
+## Federalism
+
+- Also called *federal systems* or *federalist systems*
+
+- The central or national government is also called the *federal government*
+
+- Sovereignty is shared between the state and national governments
+
+                - The powers of state and national governments are defined in a constitution
+                - The national government may not change the powers of the states
+                - The state governments may not change the powers of the national government
+                - Each level's powers are binding on the other in its own proper sphere of influence
+                
+
+
+## Federations (Federal systems)
+
+- There are 27 federations in the world
+
+- Examples:
+
+                - Australia
+                - Canada
+                - Brazil
+                - Estados Unidos Mexicanos
+                - Germany
+                - Russian Federation
+                - United Arab Emirates
+                
+- and The United States of America
+
+## Why federalism?
+
+Two related reasons:
+
+- Historical accident
+- Additional Separation of Powers
+
+## History
+
+- From the Declaration of Independence (1776): “...these United Colonies are, and of Right ought to be Free and Independent **States.**”
+
+## History
+
+- From the Declaration of Independence (1776): “...these United Colonies are, and of Right ought to be Free and Independent **States.**”
+- Not: "an Independent State." Singular.
+
+## History
+
+- From the Declaration of Independence (1776): “...these United Colonies are, and of Right ought to be Free and Independent **States.**”
+- Not: "an Independent State." Singular.
+- 13 Free and Independent States. Plural.
+- The Republic created by the Constitution formed from the bottom up
+
+## History
+
+- From the Declaration of Independence (1776): “...these United Colonies are, and of Right ought to be Free and Independent **States.**”
+- Not: "an Independent State." Singular.
+- 13 Free and Independent States. Plural.
+- The Republic created by the Constitution formed from the bottom up
+- The individual states were jealous of the sovereign powers they had just won
+
+## History
+
+- From the Declaration of Independence (1776): “...these United Colonies are, and of Right ought to be Free and Independent **States.**”
+- Not singular: "a Free and Independent State."
+- Plural: 13 "Free and Independent States."  
+- The Republic formed from the bottom up
+- States: jealous of new sovereignty
+- States: protective of citizens' Liberty
+
+## How was power split?
+
+- Federal government got necessary power for:
+
+                - Interstate relations - common market
+
+- Mostly Article I powers given to Congress
+
+- Examples:
+
+                - uniform laws of bankruptcies
+                - regulate commerce...among the several states
+                - post offices and post roads
+                - standard weights and measures
+                - coin money and regulate the value of coin (currency)
+                
+                
+## How was power split?
+
+- Federal government got necessary power for:
+
+                - Interstate relations - common market
+                - Foreign relations - unified foreign policy
+
+- Article I and II
+
+- Examples:
+
+                - Make treaties
+                - appoint ambassadors
+                - Declare war
+                - punish piracy
+                - regulate commerce with foreign nations
+                - raise armies and a navy
+                - to govern the state militias when in federal service
+
+## How was power split?
+
+- Federal government got necessary power for:
+
+                - Interstate relations - common market
+                - Foreign relations - unified foreign policy
+                - Taxes to fund federal government
+                - Limited power over federal elections
+
+- Article I                
+
+
+## How was power split?
+
+- Federal government got necessary power for:
+
+                - Interstate relations - common market
+                - Foreign relations - unified foreign policy
+                - Taxes to fund federal government
+                
+- State governments got: Everything else
+
+                - Most crimes
+                - Business formation
+                - Property records and enforcement
+                - contract law
+                - family law
+                - Primary power over elections
+
+## What happened from there? 
+
+- First central banks: 1791, 1810
+- States asserted their power: early 1800s
+- Civil War: established federal supremacy
+- Westward expansion: increased federal power
+- 1913 Federal Reserve Bank and Income Tax
+- New Deal: further expansion of federal power
+- Great Society 1960s
+- New Federalism: 1970s
+
+## What happened from there?       
+
+- What happened from there (Sept 21)
+- Bill of Rights and early Civil Liberties (Sept 19)
+- Later Civil Liberties and the Civil Rights Movement (Sept 26 and 28)
+
+                
+
+
+
+
+

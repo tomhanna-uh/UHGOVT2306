@@ -1,0 +1,274 @@
+---
+title: |
+    | Lectures Week of Sept 18
+    | 1. Bill of Rights and Early Civil Liberties 
+    | 2. Evolution of Federalism"
+author: "GOVT2306, Instructor: Tom Hanna, Fall 2023, University of Houston"
+date: last-modified
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "GOVT2306, Fall 2023, Instructor: Tom Hanna"
+---
+
+## Agenda
+
+- Announcements
+- Review *
+- Part 1: The Bill of Rights and Early Civil Liberties until about 1810
+- Review federalism including 10th Amendment from Bill of Rights *
+- Part 2: The evolution of federalism after the passage of the Bill of Rights
+
+<p style="font-size: x-large">*Two day class only. One day class will still have the review slides available in Canvas.</p>
+
+
+## Announcements
+
+- Lowest *Inquizitive* grade will be dropped. This is in addition to the GOOJF Card
+
+- New *Canvas Module*: Space for Sharing notes, Study questions, and Answers from me. 
+
+- Explanation of Inquizitive grading in the third discussion area above. 
+
+<p style="font-size: x-large">Basically, you can stop when you reach the required number of questions, but you get graded on percent correct at that point. You can keep going and eventually reach 100%. (The scoring has a mechanism to throw out wrong answers after you master the material you missed.) Bottom line: keep going until you are happy with your score. </p>
+
+## Review
+
+- American philosophy: government exists for protection of individual rights *from violence*
+- Modern terms: Empowerment of the individual 
+- Government power: coercive armed violence (cav)
+- Strong central government has huge power
+- Separation of Powers, Checks and Balances, Federalism created to restrain federal government power (cav)
+- The Anti-federalists wanted more protection...
+
+## Part 1: Bill of Rights
+
+- Restraint on *federal government*
+                
+                - the demand was for a restraint on the federal government
+                - Most state constitutions had a bill or declaration of rights
+                - Barron v. Baltimore (1833), Chief Justice John Marshall, United States Supreme Court
+                
+
+- First 10 amendments to Constitution
+- Not an exclusive list of the rights of the people
+- 10th Amendment - Powers of the states, rights of the people
+
+## First Amendment: Protecting expression and conscience
+
+Constitution of the United States: First Amendment
+
+- *Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.*
+
+## First Amendment: Religion 
+
+ "no law respecting an establishment of religion"
+
+1. No official national church
+                
+                - No automatic church membership on birth
+                - No tax support for churches
+                - No government payment of preacher's salaries
+                
+## First Amendment: Religion 
+
+ "no law respecting an establishment of religion"
+
+1. No official national church
+                
+                - No automatic church membership on birth
+                - No tax support for churches
+                - No government payment of preacher's salaries
+
+2. No interference with the state established churches
+ 
+                - 1776 all 13 states had established churches
+                - 1786 Virginia disestablished Church of Englan
+                - New Hampshire 1817
+                - Massachusetts (Congregationalist) 1833
+
+ 
+ 
+<p style="font-size: large">Kidd, Colin. "Civil Theology and Church Establishments in Revolutionary America." *The Historical Journal.* Vol. 42, No. 4 (Dec., 1999). pp. 1007-1022</p>
+
+
+## First Amendment: Religion 
+
+ "no law respecting an establishment of religion"
+
+1. No official national church
+                
+                - No automatic church membership on birth
+                - No tax support for churches
+                - No government payment of preacher's salaries
+
+2. No interference with the state established churches
+ 
+                - 1776 all 13 states had established churches
+                - 1786 Virginia disestablished Church of Englan
+                - New Hampshire 1817
+                - Massachusetts (Congregationalist) 1833
+
+ 3. #2 will change in 1940
+ 
+<p style="font-size: large">Kidd, Colin. "Civil Theology and Church Establishments in Revolutionary America." *The Historical Journal.* Vol. 42, No. 4 (Dec., 1999). pp. 1007-1022</p>
+
+## First Amendment: Free exercise
+
+ - Free exercise of religion
+ 
+ 
+ 
+## Second Amendment: Right to bear arms, independent state militias
+ 
+Constitution of the United States: Second Amendment
+ 
+ - "A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed."
+ 
+ 
+## Second Amendment: A power and a right
+
+- There are two clauses (with unneeded commas)
+- Clause 1 *implies* a state power - the power to have an independent militia to secure the state's freedom
+- Clause 1 explains one reason the second is desirable
+- Clause 2 grants a right  - the right to bear arms
+- Clause 2 specifies the people hold the right
+- **Does disagreement about the explanation negate the right?**
+- *What does well regulated mean?*<sup>1</sup>
+                
+<p style="font-size: x-large">1 - Judges have argued about the last two since at least the 1920s: We can disagree</p>
+                
+## Third Amendment: Quartering of Soldiers
+
+Constitution of the United States: Third Amendment 
+
+- "No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law."
+                
+## Fourth Amendment: Search and seizure
+
+Constitution of the United States: Fourth Amendment
+
+- "The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized." 
+          
+## Fourth Amendment: Two parts
+
+- No unreasonable search and seizure
+- Requirements for warrants      
+
+## Fourth Amendment: Two parts
+
+- No unreasonable search and seizure
+- Right of the people
+
+
+## Fourth Amendment: Two parts
+
+- No unreasonable search and seizure
+- Right of the people
+- Establishes the sanctity of four things: 
+
+                - The person or individual 
+                
+## Fourth Amendment: Two parts
+
+- No unreasonable search and seizure
+- Right of the people
+- Establishes the sanctity of four things: 
+
+                - The person or individual 
+                - The home or dwelling place               
+                
+## Fourth Amendment: Two parts
+
+- No unreasonable search and seizure
+- Right of the people
+- Establishes the sanctity of four things: 
+
+                - The person or individual 
+                - The home or dwelling place
+                - The papers regardless of location
+   
+## Fourth Amendment: Two parts
+
+- No unreasonable search and seizure
+- Right of the people
+- Establishes the sanctity of four things: 
+
+                - The person or individual 
+                - The home or dwelling place
+                - The papers regardless of location
+                - The personal possessions regardless of location
+
+## Fourth Amendment: Two parts
+
+- No unreasonable search and seizure
+- Right of the people
+- Establishes the sanctity of four things: 
+
+                - The person or individual 
+                - The home or dwelling place
+                - The papers regardless of location
+                - The personal possessions regardless of location
+
+- Unreasonable is not defined!
+
+                - Confusion because of 2nd part: Are warrants always required for a search to be reasonable?
+                - Are all searches with warrants reasonable?
+ 
+                
+
+## Fourth Amendment: Two parts
+
+- No unreasonable search and seizure
+- Right of the people
+- Establishes the sanctity of four things: 
+
+                - The person or individual 
+                - The home or dwelling place
+                - The papers regardless of location
+                - The personal possessions regardless of location
+
+- Unreasonable is not defined!
+
+                - Confusion because of 2nd part: Are warrants always required for a search to be reasonable? Not according to the courts
+                - Are all searches with warrants reasonable? Not necessarily
+                - One clue to reasonableness from the second clause: probable cause
+
+
+## Fourth Amendment: Two parts
+
+- No unreasonable search and seizure
+- Requirements for warrants
+
+                - probable cause
+                - Oath or affirmation
+                - description of place to be search
+                - description of person or things to be seized
+
+## Fifth Amendment
+
+## Sixth Amendment
+
+## Seventh Amendment
+
+## Eight Amendment
+
+## Ninth Amendment
+
+## Tenth Amendment
+
+ 
+ 
+
+## Review of federalism
+
+
+
+## Evolution of Federalism
+
+
+
+
