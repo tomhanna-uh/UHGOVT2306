@@ -35,6 +35,11 @@ format:
 
 <p style="font-size: x-large">Basically, you can stop when you reach the required number of questions, but you get graded on percent correct at that point. You can keep going and eventually reach 100%. (The scoring has a mechanism to throw out wrong answers after you master the material you missed.) Bottom line: keep going until you are happy with your score. </p>
 
+<!-- ## Announcements 2 -->
+
+<!-- - Sunday was *Constitution Day* -->
+<!-- - Videos available in Canvas -->
+
 ## Review
 
 - American philosophy: government exists for protection of individual rights *from violence*
@@ -213,12 +218,6 @@ Constitution of the United States: Fourth Amendment
                 - The papers regardless of location
                 - The personal possessions regardless of location
 
-- Unreasonable is not defined!
-
-                - Confusion because of 2nd part: Are warrants always required for a search to be reasonable?
-                - Are all searches with warrants reasonable?
- 
-                
 
 ## Fourth Amendment: Two parts
 
@@ -231,11 +230,8 @@ Constitution of the United States: Fourth Amendment
                 - The papers regardless of location
                 - The personal possessions regardless of location
 
-- Unreasonable is not defined!
+     
 
-                - Confusion because of 2nd part: Are warrants always required for a search to be reasonable? Not according to the courts
-                - Are all searches with warrants reasonable? Not necessarily
-                - One clue to reasonableness from the second clause: probable cause
 
 
 ## Fourth Amendment: Two parts
@@ -247,28 +243,285 @@ Constitution of the United States: Fourth Amendment
                 - Oath or affirmation
                 - description of place to be search
                 - description of person or things to be seized
+                
+## Fourth Amendment: Two parts
 
-## Fifth Amendment
+- No unreasonable search and seizure
+- Requirements for warrants
+- Unreasonable is not defined
 
-## Sixth Amendment
-
-## Seventh Amendment
-
-## Eight Amendment
-
-## Ninth Amendment
-
-## Tenth Amendment
-
+                - Confusion because of 2nd part: Are warrants always required for a search to be reasonable?
+                - Are all searches with warrants reasonable?
  
  
+## Fourth Amendment: Two parts
 
-## Review of federalism
+- No unreasonable search and seizure
+- Requirements for warrants
+- Unreasonable is not defined
 
+                - Confusion because of 2nd part: Are warrants always required for a search to be reasonable? Not according to the courts
+                - Are all searches with warrants reasonable? Not necessarily<sup>1</>
+         
+         
+<p style="font-size: x-large"><a href = "https://www.law.cornell.edu/wex/fourth_amendment#:~:text=Reasonableness%20Requirement,also%20satisfy%20the%20reasonableness%20requirement.">Cornell University Legal Information Institute</a></p>  
+
+## Fifth Amendment: Due Process and Property Rights
+
+Constitution of the United States: Fifth Amendment
+
+"No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation."
+
+## Fifth Amendment: Due Process and Property Rights
+
+- Major civilian crimes require an indictment by a grand jury
+
+                - does not apply to minor crimes (initially)
+                - exception for active military - courts martial
+                - exception for militia when called into active service - courts martial
+                
+## Fifth Amendment: Due Process and Property Rights
+
+- Major civilian crimes require an indictment by a grand jury
+- Double Jeopardy!
+
+![Double Jeopardy!](double_jeopardy.jpg)
+                
+## Fifth Amendment: Due Process and Property Rights
+
+- Major civilian crimes require an indictment by a grand jury
+- May not be tried again for the same crime after being acquitted
+                
+                - Does not apply to second trial after appeal
+                - May apply if a trial reaches a certain point and ends in a mistrial
+                - Does not apply if the jury fails to reach a verdict
+
+## Fifth Amendment: Due Process and Property Rights
+
+- Major civilian crimes require an indictment by a grand jury
+- May not be tried again for the same crime after being acquitted
+- Protection against *self-incrimination*
+
+                - Defendant not required to testify against him or herself in a criminal trial
+                - Does not apply to civil trials
+                - Has been extended considerably to assure that involuntary statements are not used and that statements are not coerced
+
+
+## Fifth Amendment: Due Process and Property Rights
+
+- Major civilian crimes require an indictment by a grand jury
+- May not be tried again for the same crime after being acquitted
+- Protection against *self-incrimination*
+- Due Process of Law 
+
+                - government must follow proper procedures
+                - protects life
+                - protects liberty 
+                - protects property
+                
+## Fifth Amendment: Due Process and Property Rights
+
+- Major civilian crimes require an indictment by a grand jury
+- May not be tried again for the same crime after being acquitted
+- Protection against *self-incrimination*
+- Due Process of Law 
+
+                - government must follow Due Process = proper procedures
+                - protects life
+                - protects liberty 
+                - protects property
+                               
+## Fifth Amendment: Due Process and Property Rights
+
+- Major civilian crimes require an indictment by a grand jury
+- May not be tried again for the same crime after being acquitted
+- Protection against *self-incrimination*
+- Due Process of Law 
+- *Takings Clause*
+
+What if a new city dump causes the value of property next door to drop?
+
+## Fifth Amendment: Due Process and Property Rights
+
+- Major civilian crimes require an indictment by a grand jury
+- May not be tried again for the same crime after being acquitted
+- Protection against *self-incrimination*
+- Due Process of Law 
+- *Takings Clause*
+
+What if a new federal regulation causes the value of property to drop or causes someone to lose income? 
+
+## Sixth Amendment: Rights of defendants in trials
+
+Constitution of the United States: Sixth Amendment
+
+- "In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the Assistance of Counsel for his defence."
+
+## Sixth Amendment: Rights of defendants in trials
+
+- Speedy trial
+- Public trial
+
+## Sixth Amendment: Rights of defendants in trials
+
+- Speedy trial
+- Public trial
+- Jury trial
+
+                - the State and district where the crime was committed
+                - District previously ascertained by law - who does this?
+                
+                
+## Sixth Amendment: Rights of defendants in trials
+
+- Speedy trial
+- Public trial
+- Jury trial
+
+                - the State and district where the crime was committed
+                - District previously ascertained by a judge
+                - Does not specify jury requirements
+
+## Sixth Amendment: Rights of defendants in trials
+
+- Speedy trial
+- Public trial
+- Jury trial
+- Right to know the charges
+
+## Sixth Amendment: Rights of defendants in trials
+
+- Speedy trial
+- Public trial
+- Jury trial
+- Right to know the charges
+- Right to confront witnesses against him 
+
+
+## Sixth Amendment: Rights of defendants in trials
+
+- Speedy trial
+- Public trial
+- Jury trial
+- Right to know the charges
+- Right to confront witnesses against him 
+- Right to subpoena witnesses for the defense
+- Right to an attorney
+
+## Seventh Amendment: Civil trials
+
+Constitution of the United States: Seventh Amendment
+
+"In Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law."
+
+## Seventh Amendment: Federal Civil trials
+
+- Trial by jury in cases with large values
+- Re-examination Clause: Judges may not overturn jury verdicts except in accordance with the rules
+
+
+## Eight Amendment: Bail, Fines, Punishment
+
+Constitution of the United States: Eighth Amendment
+
+- "Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted."
+
+## Eight Amendment: Bail, Fines, Punishment
+
+- No excessive bail
+- No excessive fines
+- No cruel and unusual punishment
+
+None of these are defined. Do we follow the standard of 1791 or the standard of 2023?
+
+
+## Ninth Amendment: Other rights
+
+Constitution of the United States: Ninth Amendment
+
+- "The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people."
+
+
+## Ninth Amendment: Other rights  
+
+- Federalists were worried that listing rights would encourage the abuse of other rights
+- Much debate about the meaning
+- Rarely referenced by the Courts
+- Seems to be reinforcing the idea that federal government not do anything explicitly permitted by the Constitution
+
+## Tenth Amendment: State powers
+
+Constitution of the United States: Amendment Ten
+
+"The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people."
+
+## Tenth Amendment: State powers
+
+- Powers not expressly given to the federal government
+
+                - Article I Powers of Congress
+                - Article II Powers of President
+                - Article III Powers of the Courts
+                
+## Tenth Amendment: State powers
+
+- Powers not expressly given to the federal government
+- Powers not prohibited to the States
+
+<a href = "https://constitutioncenter.org/the-constitution/articles/article-i/clauses/767">Article I, Section 10</a>
+        
+Examples:
+
+                - entering treaties
+                - coining money
+                - creating legal tender
+                - granting titles of nobility
+                - taxing imports or exports
+                - impairing the obligation of contract
+                - engage in War
+                
+
+## Tenth Amendment: State powers
+
+- Powers not expressly given to the federal government
+- Powers not prohibited to the States
+- remain with the individual States or the people
+
+The Constitution doesn't specify which powers remain with the States and which with the people. 
+
+
+## Review of federalism.
+
+- Sovereignty: Supreme power
+- Unitary systems: Single, national government is sovereign
+- Confederacy: state governments are sovereing, national government is dependent
+- Federalism: Sovereignty is shared as defined by the Constitution
+- Most of this is accomplished in Article I of the US Constitution
+- Federalism is an additional part of Separation of Powers and a Check on federal power
 
 
 ## Evolution of Federalism
 
 
+## First central banks: 1791, 1810
+
+
+## States asserted their power: early 1800s
+
+
+## Civil War: established federal supremacy
+
+
+## Westward expansion: increased federal power
+
+
+## 1913 Federal Reserve Bank and Income Tax
+
+
+## New Deal: further expansion of federal power
+
+## Great Society 1960s
+
+## New Federalism: 1970s
 
 
