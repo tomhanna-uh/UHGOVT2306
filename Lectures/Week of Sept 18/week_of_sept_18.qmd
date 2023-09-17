@@ -445,9 +445,11 @@ Constitution of the United States: Ninth Amendment
 ## Ninth Amendment: Other rights  
 
 - Federalists were worried that listing rights would encourage the abuse of other rights
+- Some rights were already listed in the Constitution like the *writ of habeas corpus*
 - Much debate about the meaning
 - Rarely referenced by the Courts
 - Seems to be reinforcing the idea that federal government not do anything explicitly permitted by the Constitution
+
 
 ## Tenth Amendment: State powers
 
@@ -502,11 +504,51 @@ The Constitution doesn't specify which powers remain with the States and which w
 
 ## Evolution of Federalism
 
+## Powers prohibited to Congress 
 
-## First central banks: 1791, 1810
+<a href = "https://constitution.congress.gov/browse/article-1/section-9/">Article 1, Section 9</a>
+
+Examples:
+
+                - No direct taxes unless in proportion to the census
+                - No tax on exports
+                - No preference to any State's ports
+                - No titles of nobility
+
+
+
+## 10th Amendment: Reserved Powers
+
+- Powers not expressly given to the federal government
+- Powers not prohibited to the States
+- remain with the individual States or the people
+
+<a href = "https://constitutioncenter.org/the-constitution/articles/article-i/clauses/767">Article I, Section 10</a>
+
+
+## First central banks
+
+- First Bank of the United States - 1791
+
+                - Opposed by Jefferson and Madison
+                - Claims it was unconstitutional
+                - Enriched merchants and bankers at the expense of the majority
+                - Expanded federal power
+                - 20 year charter, lapsed in 1811
+
+- Second Bank of the United States - 1816
+                
+                - Allowed to have branches in multiple states
+                - Similar arguments to first Bank
+                - Supported by Madison
+                - Lacked many modern central bank powers
+                - New charter vetoed by Andrew Jackson
+                - 20 year charter lapsed in 1836
+                - Became a Pennsylvania state bank
 
 
 ## States asserted their power: early 1800s
+
 
 
 ## Civil War: established federal supremacy
