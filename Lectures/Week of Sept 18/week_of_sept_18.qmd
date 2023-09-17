@@ -27,7 +27,7 @@ format:
 
 ## Announcements
 
-- Lowest *Inquizitive* grade will be dropped. This is in addition to the GOOJF Card
+- Lowest *Inquizitive* grade will be dropped for everyone. This is in addition to the GOOJF Card
 
 - New *Canvas Module*: Space for Sharing notes, Study questions, and Answers from me. 
 
@@ -53,14 +53,14 @@ format:
 
 - Restraint on *federal government*
                 
-                - the demand was for a restraint on the federal government
+                - the demand was for a restraint on the federal government, not state governments
                 - Most state constitutions had a bill or declaration of rights
                 - Barron v. Baltimore (1833), Chief Justice John Marshall, United States Supreme Court
                 
 
 - First 10 amendments to Constitution
 - Not an exclusive list of the rights of the people
-- 10th Amendment - Powers of the states, rights of the people
+- 10th Amendment - Powers of the states, rights of the people - federalism
 
 ## First Amendment: Protecting expression and conscience
 
@@ -125,7 +125,24 @@ Constitution of the United States: First Amendment
 
  - Free exercise of religion
  
+- Citizens practice faith according to their conscience
+- Engage in religious rituals
+- Adopt a faith of their choosing <sup>1</sup>
+                
+<p style="font-size: x-large">1 - In this respect, the  No Establishment Clause doesn't conflict, it reinforces.</p>
  
+## First Amendment: Not present
+
+Not present in the Constitution or First Amendment:
+
+- The phrase "Separation of Church and State"
+- The phrase "Wall of separation between church and state"
+
+Important questions:
+
+- Should either phrase be added?
+- What relations between church and state should be allowed?
+                
  
 ## Second Amendment: Right to bear arms, independent state militias
  
@@ -144,13 +161,25 @@ Constitution of the United States: Second Amendment
 - **Does disagreement about the explanation negate the right?**
 - *What does well regulated mean?*<sup>1</sup>
                 
-<p style="font-size: x-large">1 - Judges have argued about the last two since at least the 1920s: We can disagree</p>
+<p style="font-size: x-large">1 - Judges have argued about the last two since at least the 1920s: We can disagree. These are points for thought. </p>
                 
 ## Third Amendment: Quartering of Soldiers
 
 Constitution of the United States: Third Amendment 
 
 - "No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law."
+- This hasn't come up in a long time
+- Still important: why?
+
+## Third Amendment: Quartering of Soldiers
+
+Constitution of the United States: Third Amendment 
+
+- "No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law."
+- This hasn't come up in a long time
+- Still important: why?
+
+It is one of the places that the Bill of Rights emphasizes the **sanctity of the home.**
                 
 ## Fourth Amendment: Search and seizure
 
@@ -219,6 +248,7 @@ Constitution of the United States: Fourth Amendment
                 - The personal possessions regardless of location
 
 
+
 ## Fourth Amendment: Two parts
 
 - No unreasonable search and seizure
@@ -231,7 +261,8 @@ Constitution of the United States: Fourth Amendment
                 - The personal possessions regardless of location
 
      
-
+                
+Another place in the Bill of Rights which establishes the *sanctity of the home*.
 
 
 ## Fourth Amendment: Two parts
@@ -445,10 +476,10 @@ Constitution of the United States: Ninth Amendment
 ## Ninth Amendment: Other rights  
 
 - Federalists were worried that listing rights would encourage the abuse of other rights
-- Some rights were already listed in the Constitution like the *writ of habeas corpus*
+- Some rights were already listed in the Constitution like the *writ of habeas corpus*, the Bill of Rights did not amend them out
 - Much debate about the meaning
 - Rarely referenced by the Courts
-- Seems to be reinforcing the idea that federal government not do anything explicitly permitted by the Constitution
+- Seems to be reinforcing the idea that federal government not do anything unless explicitly permitted by the Constitution
 
 
 ## Tenth Amendment: State powers
