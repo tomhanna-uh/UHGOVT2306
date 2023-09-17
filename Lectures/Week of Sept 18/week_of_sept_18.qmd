@@ -525,6 +525,13 @@ Examples:
 
 <a href = "https://constitutioncenter.org/the-constitution/articles/article-i/clauses/767">Article I, Section 10</a>
 
+## States Rights: Bad phrasing
+
+- Individuals have rights. 
+- States have powers.
+- States rights have become associated with pro-slavery and anti-civil rights positions
+- Despite Northern states opposition to the Fugitive Slave Act
+
 
 ## First central banks
 
@@ -547,23 +554,270 @@ Examples:
                 - Became a Pennsylvania state bank
 
 
-## States asserted their power: early 1800s
+## States Asserted Their Power: Early 1800s
+
+- Debate over Power Balance
+  - States asserting their rights vs. federal government's authority
+  - Key figures like Thomas Jefferson, Alexander Hamilton, Henry Clay, and John C. Calhoun 
+
+- Key Events
+  - Kentucky and Virginia Resolutions
+  - Hartford Convention
+  
+## John C. Calhoun: the Arch Nullifier
+
+- Key Positions:
+
+                - Vice President under Presidents John Quincy Adams and Andrew Jackson
+                - U.S. Senator from South Carolina
+                - Secretary of War and Secretary of State
+
+- Nullification and States Rights:
+
+                - Strongly supported the doctrine of nullification
+                - Central role in the Nullification Crisis of 1832 (tariffs)
+                - Supported Second Bank of the United States
+
+- Legacy:
+
+                - Remembered as a proponent of states' rights, but controversial due to his support for slavery 
+
+## Henry Clay: The Great Compromiser
+
+- Key Positions:
+
+                 - U.S. Senator from Kentucky
+                 - House Speaker and House of Representatives member
+                 - Secretary of State
+
+- Advocate for the American System:
+
+                 - Protective tariffs, national bank, and internal improvements 
+                 - Promoted economic development and national unity
+
+- Compromises:
+
+                 - Played a key role in the Missouri Compromise, the Compromise of 1833, and the Compromise of 1850, attempting to ease sectional tensions over slavery
+
+- Legacy:
+
+                  - Remembered for his efforts to preserve the Union through compromise and economic policies
+                  
+## Kentucky Resolutions (1798)
+
+- Authorship:
+
+                - Authored by Thomas Jefferson, then Vice President of the United States
+
+- Principles:
+                
+                - Doctrinese of states' rights and nullification
+                - Right to declare federal laws unconstitutional within their borders
+
+- Key Arguments:
+  
+                - Criticized the Alien and Sedition Acts as unconstitutional infringements on free speech
+                - Argued that the states created the federal government and could judge its constitutionality
 
 
 
-## Civil War: established federal supremacy
+## Virginia Resolutions (1798)
+
+- Authorship:
+
+                - Authored by James Madison, who later became the fourth President of the United States
+
+- Principles:
+
+                - Echoed the Kentucky Resolutions' support for states' rights and opposition to the Alien and Sedition Acts
+
+- Key Arguments:
+
+                - Duty of state legislatures to protect citizens' constitutional rights
+                - States could interpose themselves between their citizens and federal abuses of power
 
 
-## Westward expansion: increased federal power
+## Legacy and Impact
 
+- Impact:
+
+                - Kentucky Resolution: Inspired the concept of nullification, which later resurfaced in debates over states' rights
+                - Virginia Resolution: Clarified concept of state as protector of citizen's rights
+                - Demonstrated early divisions over the extent of federal authority
+                - Laid the groundwork for debates over balance of power
+
+- Nullification Crisis of 1832
+
+                - South Carolina attempted to nullify federal tariff laws
+
+- Constitutional Legacy
+
+                - Important in discussions about the scope of states and federal powers
+                - Laid the groundwork for the Personal Liberty Laws
+                - Strengthened opposition to Fugitive Slave Act
+
+
+## Personal Liberty Laws and the Fugitive Slave Act: Background
+
+- Mid-19th Century
+
+- Context: Heightened tensions over slavery and states' rights.
+
+- Fugitive Slave Act of 1850
+
+                - Enforced return of escaped slaves, even in free states.
+                - Required Free State Governments to Assist in the return of escaped slaves
+
+
+## Northern Response: Personal Liberty Laws
+
+- Purpose: Protect rights of free African Americans in free states.
+- Provisions: Ensured trial by jury, restricted state officials' assistance.
+- Supporters: Abolitionists and sympathetic Northerners.
+
+## Impact and Legacy
+
+- **Resistance to Federal Authority:** Asserted states' rights and resisted federal authority.
+- **Contributed to Sectional Conflict:** Escalated tensions and contributed to the Civil War.
+- **Symbol of Opposition:** Signified Northern resistance to slavery and federal enforcement.
+
+## Important Point
+
+Multiple impacts and unintended consequences
+
+- Calhoun supported nullification but... 
+- That nullification had nothing to do with slavery and...
+- Nullification inspired the Personal Liberty Laws
+- We can be fairly sure this is not what John C. Calhoun would have wanted 
+
+## Civil War: Established Federal Supremacy
+
+- Turning Point in question of state and federal power
+
+- First Republican President: Abraham Lincoln
+
+                - Lincoln's power: imposed martial law, imprisoned protesters, suspended habeas corpus
+                - Lincoln's leadership: preserved the Union, Emancipation Proclamation
+ 
+- Outcomes
+
+                - 13th, 14th, and 15th Amendments
+                - Federal government's authority solidified
+                - Railroads, tariffs, industrial development, westward expansion
+
+## Westward Expansion: Increased Federal Power
+
+- Territorial Expansion
+
+                - Acquisition of new territories
+                - Federal government's role in managing the West
+
+- Land Policies (1862)
+
+                - Homestead Act - free land to individuals who would develop it
+                - Morrill Act - free land to states for land grant colleges
+                - Texas A&M University, Oklahoma State University, Colorado State University, many others...
 
 ## 1913 Federal Reserve Bank and Income Tax
 
+- Federal Reserve Bank
 
-## New Deal: further expansion of federal power
+  - Established to stabilize the economy
+  - Central banking system
+  - Print legal tender paper currency
+
+- Income Tax
+
+  - 16th Amendment
+  - Revenue source for federal government
+  - First direct tax not apportioned according to census
+
+## New Deal: Further Expansion of Federal Power
+
+- Great Depression
+
+                - Economic crisis of the 1930s
+                - President Franklin Delano Roosevelt (FDR)
+                - FDR's response with New Deal programs
+
+- New Deal Programs
+
+                - Social Security Act
+                - Public works programs
+                - Works Progress Administration (WPA)
+                - National Recovery Administration (NRA)
+                - Other "alphabet agencies"
+                - Great expansion of federal power in the economy
+
 
 ## Great Society 1960s
 
+- Lyndon B. Johnson's Vision
+
+                - Addressing social issues and inequality
+- Medicare and Medicaid (1965)
+
+                - massive expansion of federal role in healthcare
+                - end of free market in health care
+                - 58 years ago
+
+- Civil Rights
+
+                - Voting Rights Act of 1965
+                - Push for racial equality
+
 ## New Federalism: 1970s
+
+- Devolution of Power
+
+                - Concept of returning power to the states
+                - Nixon and Reagan administrations
+
+- Revenue Sharing
+
+                - Sharing federal revenue with states
+                - State control over spending
+ 
+## Did the New Federalism reduce federal power?       
+
+- **Example:*National Minimum Drinking Age Act (1984):**
+
+                - Passed by Congress
+                - Response to public opinion on drunk driving accidents
+                - Mandate: states set minimum drinking age of 21 
+                - Penalty: Loss of federal highway funds
+                - Drinking age policy strictly a state power under federalism
+                
+                
+- Federal Influence:
+
+                - All states complied
+                - Significantly increased federal power in dictating state-level policies
+                
+- Impact on State Autonomy:
+
+                - New Federalism aimed to devolve power
+                - Drinking Age Act showcased how federal incentives centralize decision making
+
+
+                
+
+## Conclusion
+
+- Dynamic Evolution
+
+  - Federalism shaped by historical events
+  - Ongoing debates about the balance of power
+  - Not settled yet
+  
+## Authorship and License
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
 
 
