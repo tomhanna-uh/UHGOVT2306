@@ -1,0 +1,458 @@
+---
+title: |
+    | Lectures Week of Sept 25
+    | 1. Later Civil Liberties
+    | 2. Civil Rights
+author: "GOVT2306, Instructor: Tom Hanna, Fall 2023, University of Houston"
+date: last-modified
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "GOVT2306, Fall 2023, Instructor: Tom Hanna"
+---
+
+- Announcements
+- Part 1: Civil Liberties beyond 1791
+- Part 2: Civil Rights: Abolition and Women's Suffrage to today
+- Short exam review *
+
+<p style="font-size: x-large">*Two day class only. One day class will still have the review slides available in Canvas.</p>
+
+
+
+## Announcements
+
+- 
+
+
+## The Bill of Rights (1791)
+
+- First Amendment: Freedom of speech, press, religion, and assembly
+- Second Amendment: Right to bear arms
+- Fourth Amendment: Protection against unreasonable searches and seizures
+- Fifth Amendment: Due Process and property protections
+- Sixth Amendment: Trial requirements
+- Eighth Amendment: Bail, Fines, Cruel and Unusual Punishment
+
+
+
+## Alien and Sedition Acts (1798)
+
+
+- Enacted in 1798
+- Controversial legislation during a time of political tension
+- Four laws signed into law by President John Adams
+- Limited freedom of speech and press
+- Controversial restrictions on immigrants
+
+
+
+## Alien Acts
+
+- Authorized the deportation of non-citizens deemed "dangerous" to the U.S.
+- Raised residency requirements for citizenship from 5 to 14 years
+- Targeted immigrants, especially French and Irish, due to fears of foreign influence
+
+
+## Sedition Act
+
+- Made it a crime to publish false, scandalous, or malicious writings against the U.S. government
+- Critics argued it violated the First Amendment's free speech protections
+- Used to target Republican critics of the Federalist administration
+
+
+## Impact of Alien and Sedition Acts
+
+- Opposition and criticism from Thomas Jefferson's party, the Republicans
+- Several prosecutions of newspaper editors
+- Acts expired in 1801, seen as a threat to civil liberties
+- Sedition Act repealed in 1802
+
+## Marbury v. Madison (1803)
+
+- Landmark Supreme Court case that established the principle of judicial review
+- Supreme Court explicitly claimed the power to declare laws unconstitutional
+- Strengthened the role of the judiciary in protecting civil liberties
+
+## Freedom of the Press
+
+- Periodicals and newspapers played a vital role in shaping public opinion
+- Press often served as a check on government power and promoted civil liberties
+- Periods of intense political polarization and partisan press
+
+## Fugitive Slave Act and Dred Scott Case 
+
+- **Fugitive Slave Act of 1850**
+
+                - Required the return of escaped slaves to their owners
+                - Controversial law that led to challenges to personal liberty in the North
+                - Sparked resistance and support for the Underground Railroad
+
+- **Dred Scott v. Sandford (1857)**
+
+                - Supreme Court decision that denied enslaved individuals citizenship rights
+                - Ruled that Congress couldn't prohibit slavery in the territories
+                - Raised questions about the rights of African Americans
+
+
+
+## Civil Liberties During the Civil War
+
+- **Habeas Corpus Suspension**
+
+                - President Abraham Lincoln suspended habeas corpus in 1861
+                - Habeas corpus is the legal right to challenge one's imprisonment
+                - Suspension allowed for the arrest and detention of individuals without trial
+
+- **Rationale for Suspension**
+
+                - Lincoln argued it was necessary to maintain order and suppress dissent
+                - Civil War created a volatile environment with the threat of rebellion
+                - Controversial decision that faced legal and political challenges
+
+- **Impact on Civil Liberties**
+
+                - Many individuals, including journalists and political activists, were arrested
+                - Critics saw it as an infringement on civil liberties and an abuse of power
+                - Supreme Court later ruled the suspension unconstitutional in Ex parte Milligan (1866)
+
+
+
+
+## Incorporation of the Bill of Rights (14th Amendment)
+
+- 14th Amendment (1868) extended federal Bill of Rights to state governments
+- Key for protecting civil liberties at the state level
+
+
+
+## Free Speech Issues
+
+- Historical and contemporary challenges to free speech
+- Landmark cases: Schenck v. United States (1919), Brandenburg v. Ohio (1969)
+- Balancing free speech with national security concerns
+
+
+
+## Tinker v. Des Moines (1969)
+
+- Student protest case
+- Landmark decision protecting students' free speech rights
+- "It can hardly be argued that either students or teachers shed their constitutional rights to freedom of speech or expression at the schoolhouse gate."
+
+## Cohen v. California (1971)
+
+- Profanity case
+- Landmark decision protecting expressive speech
+- "One man's vulgarity is another's lyric."
+
+## Free Press Issues
+
+- Press freedom and government censorship
+- Pentagon Papers case (1971)
+- Challenges in the digital age: WikiLeaks and online journalism
+
+
+## New York Times v. Sullivan (1964)
+
+- Landmark libel case
+- Significance for press freedom and the First Amendment
+- Established "actual malice" standard for public figures
+
+
+## Search and Seizure Issues
+
+- Fourth Amendment protections against unreasonable searches and seizures
+- Landmark cases: Mapp v. Ohio (1961), Terry v. Ohio (1968)
+- Modern concerns: Surveillance, privacy, and technology
+
+
+## Mapp v. Ohio (1961)
+
+- Fourth Amendment case
+- Exclusionary rule: Illegally obtained evidence cannot be used federal court cases
+- Mapp expanded the exclusionary rule to states
+- Significant protection of the right against unreasonable searches and seizures
+
+
+## Terry v. Ohio (1968)
+
+- Fourth Amendment case
+- "Stop and frisk" encounters
+- Balancing law enforcement needs and individual rights
+- Police may stop and frisk if:
+
+                - reasonable belief person was involved in a crime
+                - reasonable belief the person is armed
+
+
+## Rights of Accused Criminals
+
+- Fifth Amendment: Protection against self-incrimination
+- Sixth Amendment: Right to a fair trial, legal counsel, and confrontation of witnesses
+- Landmark cases: Miranda v. Arizona (1966), Gideon v. Wainwright (1963)
+
+## Gideon v. Wainwright (1963)
+
+- Applied the Sixth Amendment to the states
+- Right to legal counsel for criminal defendants
+- States must provide attorneys if necessary
+- Ensuring fair trials and equal access to justice
+
+
+## Miranda v. Arizona (1966)
+
+- Fifth Amendment case
+- The right to remain silent and the right to an attorney
+- Rights are not meaningful unless the accused is informed of them
+- Custodial interrogations and self-incrimination
+
+
+
+
+## Cruel and Unusual Punishment
+
+- Eighth Amendment: Protection against cruel and unusual punishment
+- Landmark cases: Furman v. Georgia (1972), Gregg v. Georgia (1976)
+- Debate over the death penalty and evolving standards of decency
+
+## Furman v. Georgia (1972)
+
+- Capital punishment
+- Eighth Amendment case
+- Temporary suspension of the death penalty in the United States
+- Concerns about arbitrary and discriminatory application
+
+## Gregg v. Georgia (1976)
+
+- Eighth Amendment case
+- Reinstating the death penalty with specific guidelines
+- Addressing concerns raised in Furman v. Georgia
+
+# Part 2: Civil Rights
+
+# Abolition Movement (19th Century)
+
+- Abolitionists' efforts to end slavery
+- Leading figures: Frederick Douglass, Harriet Tubman
+- The Underground Railroad and the Emancipation Proclamation
+
+---
+
+# Frederick Douglass
+
+- Prominent African American abolitionist
+- Escaped slavery and became a powerful orator
+- Advocate for equal rights and suffrage
+
+
+
+# Harriet Tubman
+
+- Famed "conductor" on the Underground Railroad
+- Escaped slavery and led others to freedom
+- Civil War nurse, suffragist, and advocate for civil rights
+
+
+
+# The Underground Railroad
+
+- Network of secret routes and safe houses
+- Helped enslaved individuals escape to freedom
+- A symbol of resistance against slavery
+
+
+
+# Civil Rights Act of 1866
+
+- Passed by Congress on April 9, 1866
+- One of the first federal civil rights laws
+- Intended to protect the rights of African Americans
+- Quickly disregarded
+
+
+
+## Reconstruction Era (1865-1877)
+
+- Post-Civil War period
+- Amendments 13, 14, and 15: Abolishing slavery, citizenship rights, and voting rights
+- Challenges and opposition in the South
+
+
+
+## 13th Amendment (1865)
+
+- Abolished slavery in the United States
+- A pivotal moment in the fight for freedom
+
+---
+
+## 14th Amendment (1868)
+
+- Defined citizenship and equal protection under the law
+- Fundamental for civil rights and legal equality
+- *Due process clause* used to apply Bill of Rights to the states
+
+---
+
+## 15th Amendment (1870)
+
+- Prohibited racial discrimination in voting
+- A step toward voting rights for African Americans
+
+---
+
+## Women's Suffrage Movement
+
+- Big overlap with Abolitionist movement
+- The fight for women's right to vote
+- Seneca Falls Convention (1848)
+- 19th Amendment (1920): Women's suffrage victory
+
+
+
+## Seneca Falls Convention (1848)
+
+- First women's rights convention in the United States
+- Declaration of Sentiments: Demands for women's equality
+- A pivotal moment in the suffrage movement
+
+
+
+## Jim Crow Era (Late 19th Century - Mid-20th Century)
+
+- Racial segregation and discrimination in the South
+- Plessy v. Ferguson (1896) and "separate but equal"
+- Legalized segregation and disenfranchisement
+
+
+
+## Plessy v. Ferguson (1896)
+
+- Supreme Court case upholding segregation
+- "Separate but equal" doctrine
+- Deepened racial divisions and discrimination
+
+
+## Civil Rights Movement (1950s-1960s)
+
+- Struggles for racial equality and civil rights
+- Key figures: Martin Luther King Jr., Rosa Parks
+- Key Supreme Court case: Brown v. Board of Education
+- Landmark legislation: Civil Rights Act of 1964, Voting Rights Act of 1965
+
+## Brown v. Board of Education (1954)
+
+- Landmark case ending racial segregation in Topeka, Kansas schools
+- Not a Southern state: discrimination was a nationwide illness
+- "Separate educational facilities are inherently unequal."
+
+
+## Martin Luther King Jr.
+
+- Civil rights leader and advocate for nonviolent protest
+- Letter from Birmingham Jail
+- "I Have a Dream" speech at the March on Washington
+- Nobel Peace Prize recipient
+
+
+## Rosa Parks
+
+- Montgomery Bus Boycott catalyst
+- Iconic figure in the fight against racial segregation
+- "The mother of the civil rights movement"
+
+
+
+## Civil Rights Act of 1964
+
+- Outlawed discrimination based on race, color, religion, sex, or national origin
+- A transformative piece of legislation
+
+
+
+## Voting Rights Act of 1965
+
+- Protected voting rights for minorities
+- Ended discriminatory voting practices
+- Expanded access to the ballot box
+
+
+
+## Later Women's Issues
+
+- Second-wave feminism (1960s-1980s)
+- Roe v. Wade (1973): Right to abortion
+- Ongoing debates on gender equality
+
+
+
+## Griswold v. Connecticut (1965)
+
+- Landmark case establishing a right to privacy
+- Actually applied to "marital right to privacy"
+- Important in history of women's rights, but a civil liberty for all people
+- Birth control access
+
+
+
+## Roe v. Wade (1973)
+
+- Supreme Court decision legalizing abortion
+- Women's reproductive rights and bodily autonomy
+- Limited state regulation by trimester
+
+                - First trimester: No regulation allowed
+                - Second trimeester: Regulation to protect health of the woman
+                - Third trimester: Regulation to protect the fetus
+                
+- Later cases, especially *Casey* allowed regulation earlier in pregnancy
+                
+# Dobbs Case (Dobbs v. Jackson Women's Health Organization)
+
+- Supreme Court case in 2022 
+What it did:
+
+                - Overturned Roe v. Wade
+                - Allowed states to regulate abortion at any point in pregnrancy for either reason
+                
+What it did not do: 
+
+                - Make abortion illegal nationwide
+                - Eliminate other Constitutional rights including the right to travel across state lines
+                - Overturn earlier decisions involving contraception
+
+
+## Equal Rights Amendment
+
+- Proposed amendment to guarantee equal rights regardless of gender
+- Expired without ratification
+- Expiration may not be valid
+- Ongoing debate and ratification efforts
+
+
+
+## Americans with Disabilities Act (1990)
+
+- Comprehensive disability rights legislation
+- Signed into law by President George H.W. Bush
+- Promoted accessibility and equal opportunities
+
+
+
+## Authorship and License
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+
+
+
+
