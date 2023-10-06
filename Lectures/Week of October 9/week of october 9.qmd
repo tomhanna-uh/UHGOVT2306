@@ -1,0 +1,180 @@
+---
+title: |
+    | Lectures Week of October 9
+    | 1. Civil Rights and Political Participation
+    | 2. Public Opinion, Voting, Media
+author: "GOVT2306, Instructor: Tom Hanna, Fall 2023, University of Houston"
+date: last-modified
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "GOVT2306, Fall 2023, Instructor: Tom Hanna"
+---
+## Agenda
+
+- Test extra credit
+- This week we start: Public opinion, political participation, voting, and the media
+- We start with examples from civil rights
+- There will be opportunity to discuss and apply
+
+## Announcements and Questions
+
+- Test results
+- Test extra credit
+- Exam 2: October 26, CASA and DART Center
+
+                - If you had problems with CASA, take that as a learning experience please
+                - If you had problems with your grade, take that as a learning experience **please**
+
+
+- Questions?
+
+## Quiz
+
+
+
+## Civil Rights
+
+- From Frederick Douglass to Martin Luther King, Jr. successful civil rights leaders have mastered the art of swaying public opinion to their cause
+
+- Others from John Brown to Malcolm X have taken a more provocative approach intended to shock the public into action
+
+- We're going to start with John Brown...
+
+## John Brown: Is the enemy of my enemy my friend?
+
+**"The enemy of my enemy is my friend."**
+
+
+- Ancient Sicilian, Klingon, Arabic, Chinese, Viking, Sanskrit, Hebrew... proverb
+
+
+## John Brown
+- Northern Abolitionist
+
+
+## John Brown
+
+- Northern Abolitionist
+- 1850: Pottawotomie Creek, Kansas - hacked 5 Southerners to death 
+
+
+## John Brown
+- Northern Abolitionist
+- 1850: Pottawotomie Creek, Kansas - hacked 5 Southerners to death 
+- 1859: Raid on Harper's Ferry, Virginia (now West Virginia) 
+
+
+
+## The Raid on Harper's Ferry
+
+- October 16 to 18, 1859
+- intended to stir a slave revolt in the South
+- Attack on the "United States Armory and Arsenal at Harpers Ferry"
+- The second **federal** armory ever built
+- Attack on the **federal government**
+- failed
+
+
+
+## John Brown: 
+
+- Northern Abolitionist
+- 1850: Pottawotomie Creek, Kansas - hacked 5 Southerners to death 
+- 1859: Raid on Harper's Ferry, Virginia (now West Virginia): Failed
+- captured, tried, and executed for treason against the state of Virginia 
+
+
+
+## John Brown: 
+
+- Northern Abolitionist
+- 1850: Pottawotomie Creek, Kansas - hacked 5 Southerners to death 
+- 1859: Raid on Harper's Ferry, Virginia (now West Virginia): Failed
+- captured, tried, and executed for treason against the state of Virginia 
+- Helped spark the Civil War (1861-1865) in which the Southern slave states attacked...
+
+## Is the enemy of my enemy my friend?
+
+<br>
+
+- John Brown's Abolitionist attack on the **federal government** helped spark the Civil War (1861-1865) in which the Southern slave states attacked...
+
+<br>
+
+**the federal government**
+
+## Sins purged by blood
+
+<br><br><br><br>
+
+**"I, John Brown, am now quite certain that the crimes of this guilty land will never be purged away but with blood."**
+
+
+## Brown v. Board of Education
+
+- reversed Plessy v. Ferguson (1896)
+- ended legal segregation in public schools
+- ended the doctrine of "separate but equal"
+
+https://billofrightsinstitute.org/videos/brown-v-board-of-education-homework-help
+
+
+## Martin Luther King, Jr.
+
+- 1955: Montgomery Bus Boycott
+- 1957: Southern Christian Leadership Conference
+- 1960: Student Nonviolent Coordinating Committee
+- 1963: Letter from Birmingham Jail
+- 1963: March on Washington for Jobs and Freedom
+
+https://www.marshall.edu/onemarshallu/i-have-a-dream/
+
+## Martin Luther King, Jr.
+
+- 1955: Montgomery Bus Boycott
+- 1957: Southern Christian Leadership Conference
+- 1960: Student Nonviolent Coordinating Committee
+- 1963: Letter from Birmingham Jail
+- 1963: March on Washington for Jobs and Freedom
+- 1964: Civil Rights Act
+- 1964: Nobel Peace Prize
+- 1965 Voting Rights Act
+- 1965: Selma to Montgomery March
+https://billofrightsinstitute.org/videos/calling-for-change-violence-or-nonviolence-images-of-bloody-sunday-1965
+
+## Martin Luther King, Jr.
+
+- 1955: Montgomery Bus Boycott
+- 1957: Southern Christian Leadership Conference
+- 1960: Student Nonviolent Coordinating Committee
+- 1963: Letter from Birmingham Jail
+- 1963: March on Washington for Jobs and Freedom
+- 1964: Civil Rights Act
+- 1964: Nobel Peace Prize
+- 1965 Voting Rights Act
+- 1965: Selma to Montgomery March
+- 1968: Assassinated
+
+## Martin Luther King, Jr.: Legacy
+
+[From the Civil Rights Museum](https://www.civilrightsmuseum.org/dr-kings-legacy):
+
+"Dr. King’s leadership contributed to the overall success of the civil rights movement in the mid-1900s and continues to impact civil rights movements in the present.
+
+While King and other leaders generated momentous strides for equality, the push for civil rights remains a preeminent challenge today...
+
+Dr. King’s generation did their part. Now, it’s time to do ours. The next generation needs us."
+
+
+
+
+
+
+
+
+
+
