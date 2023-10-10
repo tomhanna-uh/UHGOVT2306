@@ -15,7 +15,7 @@ format:
 ---
 ## Agenda
 
-- Test extra credit
+- Announcemetns and Test extra credit
 - This week we start: Public opinion, political participation, voting, and the media
 - We start with examples from civil rights
 - There will be opportunity to discuss and apply
@@ -23,26 +23,58 @@ format:
 ## Announcements and Questions
 
 - Test results
-- Test extra credit
-- Exam 2: October 26, CASA and DART Center
 
                 - If you had problems with CASA, take that as a learning experience please
+                - If you had problems understanding the material, take that as a learning experience please
                 - If you had problems with your grade, take that as a learning experience **please**
+                - Tutoring is available through the Knack App and Launch Tutoring
+                
+## Registration
+
+- Online Deliberation - 10% of grade for showing up!
+
+                - Sign up link is in Canvas in Introduction Module from Week 1, you'll have to scroll down to find it now
+                - Tuesday Thursday class - 194 out of 247
+                - Thursday only class - 197 out of 246
+                - Following written instructions to sign up for something online is part of the practically free points in the Professionalism Grade
+                
+                
+- Exam 2: October 26, CASA and DART Center
+
+                - CASA and DART Center
+                - Missing the exam for any reason including CASA problems means you must make up the exam by taking the final exam
+                - Following written instructions to handle your own reservation is part of the practically free points in the Professionalism Grade
+                - No class October 26 other than exam in CASA/DART
+
+## Exams and Class Days
+
+- No in person class the week of Oct 23rd
+- Oct 24 Tuesday-Thursday class will wrap up unit 2 with an optional Teams meeting
+- Oct 26 - both classes exam day, no in class meeting
+
+                
+## Questions
 
 
-- Questions?
-
-## Quiz
+## Test extra credit
 
 
 
 ## Civil Rights
 
-- From Frederick Douglass to Martin Luther King, Jr. successful civil rights leaders have mastered the art of swaying public opinion to their cause
+- From Frederick Douglass to Martin Luther King, Jr. successful civil rights leaders have mastered the art of swaying public opinion to their cause by appealing to shared values and ideals, nonviolence, and civil disobedience
 
 - Others from John Brown to Malcolm X have taken a more provocative approach intended to shock the public into action
 
-- We're going to start with John Brown...
+## Questions to consider
+
+- When does each approach work?
+
+- What are the limits of each approach?
+
+- Is either approach overall more effective?
+
+
 
 ## John Brown: Is the enemy of my enemy my friend?
 
@@ -169,6 +201,19 @@ While King and other leaders generated momentous strides for equality, the push 
 
 Dr. King’s generation did their part. Now, it’s time to do ours. The next generation needs us."
 
+
+
+
+
+## Authorship and License
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
 
 
 

@@ -1,0 +1,112 @@
+---
+title: |
+    | Republishing to RPubs
+    | Manual Success
+    | RStudio Republish Doesn't work
+author: "GOVT2306, Instructor: Tom Hanna, Fall 2023, University of Houston"
+date: last-modified
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "Fall 2023, Instructor: Tom Hanna"
+---
+
+## Record of RPubs Republish attempts
+
+This is a slightly edited version of attempts to republish to RPubs.
+
+Back story: I attempted to use the Publish and Republish buttons in the R Studio IDE to publish to RPubs several times. I kept receiving the same error message reported to other users. I tried with the same results on 3 different systems:
+
+## System 1
+
+System 1: 5 year old Dell G15 running Windows 11 latest build, 8th gen Intel i7 Core processor, 1TB solid state drive, 32GB Ram, 4GB Nvidia GeForce GTX 1050 Ti graphics card. Latest stable build of R. Latest stable build of R Studio. All packages fully up to date. (Running on Verizon 5G Home Internet)
+
+## System 2
+
+System 2: Very old Acer Aspire Laptop running Kubuntu 22.04 latest stable build. 16GB Ram, 500 GB hard drive. Latest stable build of R. Latest stable build of R Studio. All packages fully up to date. (Running on an R1 research university's network)
+
+## System 3
+
+System 3: Two day old Dell G16 running Windows 11 updated last night, 13th gen Intel i7 Core processor, 1TB solid state drive, 32GB Ram, 8GB Nvidia GeForce RTX 3060 graphics card. Latest stable build of R. Latest stable build of R Studio. All packages fully up to date. (Running on Verizon 5G Home Internet)
+
+
+## Let's see if it will update!
+
+Changing something, rendering the new output, and then I will try to Republish. 
+
+## Attempt #1
+
+Received this error:
+
+Error in curl::curl_fetch_memory(url, handle = handle) : 
+  Failure when receiving data from the peer
+Calls: <Anonymous> -> http -> <Anonymous>
+Execution halted
+
+## Attempt #2: New Publishing attempt
+
+I am going to use the recommended code to publish instead of the Publish and Republish buttons in R Studio.
+
+First, I will publish with:
+
+rsconnect::rpubsUpload()
+
+## Attempt 2: Initial result
+
+This is the result of the first attempt:
+
+> rsconnect::rpubsUpload("test","test.html","test.qmd")
+$id
+[1] "https://api.rpubs.com/api/v1/document/1096143/f946535d7f7046f38d6612c52effcea3"
+
+
+## Attempt 2: Republishing 
+
+I will now try to republish with:
+
+rsconnect::rpubsUpload("test","test.html","test.qmd", id = "https://api.rpubs.com/api/v1/document/1096143/f946535d7f7046f38d6612c52effcea3")
+
+Trying that because that is what *Copilot* suggested in for the ID and I am not sure what it needs. I would assume it just needs numbers, not the full URL. The manual just says to use "id = result$id", so that is not especially helpful. 
+
+
+## Attempt #3: Just testing
+
+Attempt #2 seems to have worked, so I am going to try to publish this additional slide. 
+
+## Cleanup: Success!
+
+I realized I had included the "claim URL," so I deleted that after successfully claiming the URL to my account:
+
+http://rpubs.com/tomhanna-uh/1096143
+
+## Conclusion: R Studio Bug
+
+This appears to be a bug in R Studio.
+
+I will attempt to file a bug report, but they make it very difficult, so I will update this and the original once the bug is fixed.
+
+
+## First attempt using only R Studio
+
+The first attempt using only R Studio is here as a record until the IDE is fixed:
+
+https://rpubs.com/tomhanna-uh/testing_rpubs_publishing_update
+
+
+## Authorship, License, Disclaimer
+
+Disclaimer: This is a personal website. Any opinions expressed here are my own and not those of my employer or any other entity.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+
+
+
