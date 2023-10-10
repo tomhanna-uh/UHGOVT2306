@@ -27,16 +27,17 @@ format:
                 - If you had problems with CASA, take that as a learning experience please
                 - If you had problems understanding the material, take that as a learning experience please
                 - If you had problems with your grade, take that as a learning experience **please**
-                - Tutoring is available through the Knack App and Launch Tutoring
+
+**Tutoring is available through the Knack App and Launch Tutoring**
                 
 ## Registration
 
-- Online Deliberation - 10% of grade for showing up!
+- Online Deliberation - **10% of grade for registering and showing up!**
 
-                - Sign up link is in Canvas in Introduction Module from Week 1, you'll have to scroll down to find it now
+                - Sign up link is in Canvas in Introduction and Syllabus Quiz Module from Week 1
                 - Tuesday Thursday class - 194 out of 247
                 - Thursday only class - 197 out of 246
-                - Following written instructions to sign up for something online is part of the practically free points in the Professionalism Grade
+                - Following written instructions to sign up for something online is part of the practically free points in your Professionalism Grade
                 
                 
 - Exam 2: October 26, CASA and DART Center
@@ -44,12 +45,12 @@ format:
                 - CASA and DART Center
                 - Missing the exam for any reason including CASA problems means you must make up the exam by taking the final exam
                 - Following written instructions to handle your own reservation is part of the practically free points in the Professionalism Grade
-                - No class October 26 other than exam in CASA/DART
+                - No in person class October 26 other than exam in CASA/DART
 
 ## Exams and Class Days
 
-- No in person class the week of Oct 23rd
-- Oct 24 Tuesday-Thursday class will wrap up unit 2 with an optional Teams meeting
+- **No in person class the week of Oct 23rd**
+- Oct 24 Tuesday-Thursday class will wrap up unit 2 during an optional Teams meeting for your benefit
 - Oct 26 - both classes exam day, no in class meeting
 
                 
@@ -204,7 +205,6 @@ Dr. King’s generation did their part. Now, it’s time to do ours. The next ge
 
 
 
-
 ## Authorship and License
 
 - Author: Tom Hanna
@@ -214,12 +214,3 @@ Dr. King’s generation did their part. Now, it’s time to do ours. The next ge
 - License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
 
 <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
-
-
-
-
-
-
-
-
-
