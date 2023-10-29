@@ -1,0 +1,106 @@
+---
+title: |
+    | Lectures Week of October 30
+    | Texas Government
+    | Part 1
+author: "GOVT2306, Instructor: Tom Hanna, Fall 2023, University of Houston"
+date: last-modified
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "GOVT2306, Fall 2023, Instructor: Tom Hanna"
+---
+
+## Announcements
+
+- Exam 2 Grades
+- Plan for rest of semester
+- Final Exam Information
+- Exam 2 Extra Credit
+
+## Exam 2 Grades
+
+- Announcement in Canvas with breakdown
+- Slight decrease from Exam 1
+- Almost everyone took the Exam
+
+## Plan for Rest of Semester
+
+- Estimating your grade:
+
+        - If your Total Grade is 50 or below, please consider dropping this week
+        - If you missed Exam 1, you can add 0.3 times your Exam 2 percentage for an estimate of your current grade without the online Deliberaion Activity
+        - If you complete the Online Deliberation Activity, you can add 10 to your total grade for a good estimate of where you stand
+        - So, if you have a 50, did not take Exam 1, made a 50% on Exam 2, and complete the Online Deliberation Activity, your estimated grade would be approximately 75.
+        - If you have a 40, did not take Exam 1, made a 40% on Exam 2, and complete the Online Deliberation Activity, your estimated grade would be approximately 62%.
+        - If you have a 30, did not take Exam 1, made a 30% on Exam 2, and do not complete the Online Deliberation Activity, your estimated grade would be approximately 39%.
+        
+- 3 class weeks left
+
+        - November 21 - Tuesday class will have class
+        - November 23 - Thanksgiving Holiday
+        - November 28 - Study day
+        - November 30 - Final Exam 
+
+## Final Exam
+
+- In class or the Dart Center, November 30
+- In person
+- No exceptions, no makeups, no excuses accepted
+
+        - Extreme, very well documented medical emergency might get an incomplete for the semester if 85% of work including both Exam 1 and Exam 2 are completed. All bureaucratic burden of documentation will fall on the student.
+
+- On Scantron provided by Political Science Department
+- Bring two to three #2 pencils, sharpened and ready to use
+- Everything will be put away for the duration of test
+        
+## Final Exam
+        
+- 80 questionsm 75 minutes
+
+        - same material, randomized order
+        - 1 point per question
+        - 75 points possible - 5 floating extra credit points
+        - 10 Exam 1 Lecture Questions - already posted in Canvas
+        - 30 questions from Exam 1 and Exam 2 Chapters
+        - 25 questions from Unit 3 (Texas) Chapters
+        - 5 Second Chance questions from Exams 1 and 2 - topics and definitions will be posted in Canvas
+        - Unit 1 to 3 questions will be in practice exam including Second Chance questions
+        - 15 current Texas politics questions from Unit 3 Lectures* - will not appear in Canvas other than slides
+
+        
+        
+## Final Exam
+
+ - Unit 3 Lecture questions will not be surprises: For example, I might be talking about an action taken by the Governor of Texas, Greg Abbott, and say, "What is the name of the Governor of Texas? You should know that for the exam!" 
+ 
+                - Hint: Yes, you should know the current Governor, Lieutenant Governor, and Attorney General of Texas for the exam! 
+ 
+- Second Chance or "I know it now" questions will be *important* questions widely missed on Exams 1 and 2. 
+
+## Exam 2 Extra Credit
+
+
+
+
+## Texas Government
+
+        - Politics, Culture, and Economy of Texas
+        - Texas Constitution (begin)
+
+## 
+
+
+
+## Authorship and License
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>

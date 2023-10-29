@@ -14,6 +14,10 @@ format:
                 footer: "Fall 2023, Instructor: Tom Hanna"
 ---
 
+## Posit working on a bug fix!
+
+I submitted the bug fix to the folks at [Posit.com](Posit) and they determined that it is a bug in the "Publish" button. They know the specific code and have a fix. I suspect this will not be out for a little while because they just released a stable build in September (with Copilot!) but it will be fixed. In the meanwhile, you can manually update RPubs using the code I used in later slides. It's not quite as convenient as the button, but not too difficult. 
+
 ## Record of RPubs Republish attempts
 
 This is a slightly edited version of attempts to republish to RPubs.
@@ -60,14 +64,14 @@ This is the result of the first attempt:
 
 > rsconnect::rpubsUpload("test","test.html","test.qmd")
 $id
-[1] "https://api.rpubs.com/api/v1/document/1096143/f946535d7f7046f38d6612c52effcea3"
+[1] "https://api.rpubs.com/api/v1/document/1096143/sortakindaf946535d7f7xxxxxyyyyyzzzzznotexactlyright"
 
 
 ## Attempt 2: Republishing 
 
 I will now try to republish with:
 
-rsconnect::rpubsUpload("test","test.html","test.qmd", id = "https://api.rpubs.com/api/v1/document/1096143/f946535d7f7046f38d6612c52effcea3")
+rsconnect::rpubsUpload("test","test.html","test.qmd", id = "https://api.rpubs.com/api/v1/document/1096143/somethinglikef946535d7f7046fxxxxxxxxxxxxxyz")
 
 Trying that because that is what *Copilot* suggested in for the ID and I am not sure what it needs. I would assume it just needs numbers, not the full URL. The manual just says to use "id = result$id", so that is not especially helpful. 
 

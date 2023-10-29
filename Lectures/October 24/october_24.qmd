@@ -1,0 +1,74 @@
+---
+title: |
+    | Exam Reminders
+    | Q & A
+author: "GOVT2306, Instructor: Tom Hanna, Fall 2023, University of Houston"
+date: last-modified
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "GOVT2306, Fall 2023, Instructor: Tom Hanna"
+---
+
+## Announcements
+
+- Exam Thursday
+- Missing exam for *any* reason the makeup is automatically just taking the final exam. No excuses needed or desired
+- Exam Extra Credit will be October 31
+
+## Meeting Q & A
+
+I am going to go through some reminders about format, then any previously submitted answer, then I will answer any questions you have today. You can go ahead and submit questions now. I will answer them in the order they are submitted until time runs out. I will not answer technical details about CASA at this point beyond what I am about to cover, please refer to the CASA FAQ online.
+
+## Exam Reminders
+
+- In CASA Testing Center, **in person, on campus**
+- on Canvas, Lockdown Browser - Computer provided
+- Bring your Cougar Card
+- 60 questions - 1 point each
+- One hour to complete
+- Multiple choice
+
+## Exam Extra Credit
+
+- Exam extra credit separate: October 31
+- **In person, in the regular classroom**
+- Canvas quiz taken **in person**
+- Bring a device to class capable of taking a Canvas quiz
+- One to three questions depending on exam scores, 1 point each
+- Specific questions chosen from the test bank
+- **You must be present in person for the exam extra credit. No exceptions. If you want it, you make it happen.**
+
+
+
+
+## Exam Material
+
+- Material: Unit 2
+
+        - Chapter 6: Public Opinion
+        - Chapter 7: The Media and Political Information
+        - Chapter 8: Participation and Voting
+        - Chapter 9: Political Parties
+        - Chapter 10: Campaigns and Elections
+
+- Review Material
+
+        - Inquizitives: Continue doing them until you are confident (Similar questions)
+        - Practice Exam in Exam 2 Module (Exact questions)
+        - Flash Cards in Unit
+
+
+
+## Submitted questions
+
+
+
+
+## Other question
+
+
+

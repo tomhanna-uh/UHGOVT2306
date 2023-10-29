@@ -1,0 +1,368 @@
+---
+title: | 
+    | Lectures: Week of October 16
+author: "GOVT2306, Instructor: Tom Hanna, Fall 2023, University of Houston"
+date: last-modified
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "GOVT2306, Fall 2023, Instructor: Tom Hanna"
+---
+
+## Agenda
+
+- Announcements 
+- Oct 9: Discussion and Participation Exercise
+
+## Announcements 
+
+- The Online Deliberation Activity started yesterday and run through November 3.
+
+        - If you have not yet signed up, I do not know if you can. You can try. 
+        - The link is in the Canvas Module: Introduction and Syllabus Quiz. It is WAY down the page in the Modules because it is from week one. 
+        - If you signed up and don't have the link, I do not have it.
+        - If you know your session, the calendar is here: https://deliberation20.weebly.com/calendar.html
+        
+- No in person class next week
+        
+        - Exam October 26
+        - Class 23474 - Optional online wrap up of Unit 2 in Teams
+
+- Sign up for Exam 2 is open in CASA scheduler. 
+- Exam 2 Extra Credit in the classroom the following week
+
+        - Oct 31 (Class 14070): Best costume gets an extra 2 test points
+        - Nov 2 (Class 23474): No costume contest, I am open to suggestions for a fun additional extra credit
+        
+
+## Last week's discussion survey results
+
+- There were no correct answers, no matter what Canvas may have told you. It defaulted to the first answer showing as "correct," but you got credit for any answer.
+
+
+## Last week's discussion survey results: Tuesday-Thursday Section
+
+After reading the article on the gunshot detection system in use by the Houston Police Department, do you think there is a nondiscriminatory way that this technology can be used?
+
+ - Yes: 57%
+ - No: 10%
+ - Unsure: 29%
+ - No Answer: 4%
+ 
+## Last week's discussion survey results: Tuesday-Thursday Section
+
+Do you think any of these ways to use the technology would not discriminate based on race or ethnicity? (Choose any you think apply)
+
+- Deploying the system equally everywhere: 85%
+- deploying the system in high income neighborhoods: 12%
+- deplying the system in low income neighborhoods: 20%
+- deploying the system in high crime neighborhoods/areas: 33 - 40%
+- deploying the system in areas with high reports of gunfire: 58%
+- No answer: 7%
+
+
+## Last week's discussion survey results: Tuesday-Thursday Section
+
+Who do you think benefits most from this technology? (By income)
+
+- High income people: 47%
+- Low income people: 43%
+- No answer: 11%
+
+## Last week's discussion survey results: Tuesday-Thursday Section
+
+Who do you think benefits most from this technology? (By crime rate)
+
+- People living in high crime areas: 64%
+- People living in low crime areas: 22%
+- No answer: 14%
+
+## Last week's discussion survey results: Tuesday-Thursday Section
+
+Who do you think benefits most from this technology? (By ethnicity. Note that Houston is a majority minority city, so the use of the phrase "ethnic or racial minorities" is to indicate racial or ethnic groups that have been the target of past discrimination while "non-minorities" indicates racial or ethnic groups that have not been the target of past discrimination.)
+
+- racial or ethnic minorities: 49%
+- non-minorities: 34%
+- No answer: 17%
+
+## Last week's discussion survey results: Tuesday-Thursday Section
+
+Do you think the technology is either useful now or could potentially be useful with modifications or improvements?
+
+- Yes: 74%
+- No: 7%
+- No answer: 19%
+
+## Last week's discussion survey results: Thursday Section
+
+After reading the article on the gunshot detection system in use by the Houston Police Department, do you think there is a nondiscriminatory way that this technology can be used?
+
+ - Yes: 67%
+ - No: 13%
+ - Unsure: 20%
+
+
+## Last week's discussion survey results: Thursday Section
+
+Do you think any of these ways to use the technology would not discriminate based on race or ethnicity? (Choose any you think apply)
+
+
+ - Deploying the system equally everywhere: 88%
+- deploying the system in high income neighborhoods: 19%
+- deplying the system in low income neighborhoods: 18%
+- deploying the system in high crime neighborhoods/areas: 40 - 59%
+- deploying the system in areas with high reports of gunfire: 68%
+- No answer: 1%
+
+## Last week's discussion survey results: Thursday Section
+
+Who do you think benefits most from this technology? (By income)
+
+- High income people: 51%
+- Low income people: 48%
+- No answer: 1%
+
+## Last week's discussion survey results: Thursday Section
+
+Who do you think benefits most from this technology? (By crime rate)
+
+- People living in high crime areas: 78%
+- People living in low crime areas: 22%
+- No answer: 1%
+
+## Last week's discussion survey results: Thursday Section
+
+Who do you think benefits most from this technology? (By ethnicity. Note that Houston is a majority minority city, so the use of the phrase "ethnic or racial minorities" is to indicate racial or ethnic groups that have been the target of past discrimination while "non-minorities" indicates racial or ethnic groups that have not been the target of past discrimination.)
+
+- racial or ethnic minorities: 60%
+- non-minorities: 39%
+- No answer: 1%
+
+## Last week's discussion survey results: Thursday Section
+
+Do you think the technology is either useful now or could potentially be useful with modifications or improvements?
+
+- Yes: 89%
+- No: 11%
+- No answer: 1%
+
+## Texas November Election
+
+Because this is a United States and TEXAS Constitution and POLITICS class, we will be discussing the upcoming election in Texas.
+
+- Early voting starts October 23
+- There are 14 amendments to the Texas Constitution on the ballot
+- There are other local issues and offices on the ballot
+- Houston Mayoral election
+
+## Houston Mayoral Election
+
+![Houston Mayoral Election](mayoral_candidates.png)
+
+##  Simulation Exercise
+
+
+- 23474 (Thursday Hybrid section): This will be your online participation exercise for this week and next week. It will be due on October 29 at midnight. 
+
+- 14070 (Tuesday-Thursday section): We will do this in class Tuesday
+       
+       - We will do the exercise together, discuss and vote.
+       - We will vote by voice vote
+       - You can follow along in Canvas or just on the screen
+       - There will be an opportunity for participation points
+      
+
+
+## Campaigns and Elections
+
+
+of 2
+WTP14 CH10 CHAPTER OUTLINE
+Campaigns and Elections
+Learning Objectives
+1. Describe the major rules and types of elections in the United States
+2. Explain strategies campaigns use to win elections
+3. Identify the rules that govern campaign fundraising and spending
+4. Identify the major factors that influence voters’ decisions
+5. Analyze the strategies, issues, and outcomes of the 2020 elections
+
+
+## Who runs elections in the United States
+
+- State and local governments
+- Federal government sets some rules
+
+        - Centered on 14th Amendment
+        - Voting Rights Act
+        - Help America Vote Act
+
+- Parties also play a role in primary elections, caucuses, and conventions
+
+## Types of electoral rules (voting systems)
+
+- Plurality system
+
+        - First-past-the-post system
+        - Winner-take-all system
+        - Common in the United States
+        - The winner take all aspect accounts for the dominance of two major parties
+        - If there are a dozen closely matched candidates, the winner may only get 20% of the vote
+        
+- Majority system: candidate must win 50% + 1 vote
+- Runoff election: if no candidate wins majority, top two candidates face off in a second election
+- Ranked choice voting / instant runoff voting
+
+        - voters rank candidates in order of preference
+        - Uncommon now but used in the past in some major cities
+        - Now used in Maine and Alaska for federal elections
+
+        
+## Types of Elections
+
+- Primary elections
+- General elections
+- Special elections
+
+## Types of Elections: Primaries
+
+- Usually set by state law along with party rules
+- Parties are private organizations
+- Parties have freedom of association
+- Party rules are not subject to judicial review
+
+## Types of Elections: Primary elections
+
+- Select the parties nominees for the general election
+- Closed primary
+- Open primary
+- Blanket primary
+- Jungle primary / Top two primary / Louisiana primary
+- Caucus
+
+
+## Types of Elections: General elections
+
+- Select officeholders
+- Most use plurality system
+- Some use majority system or runoff elections
+- Maine and Alaska use ranked choice voting
+
+## Types of Elections: Special elections and other elections
+
+- Fill vacancies
+- Recall elections
+- Ballot initiatives
+- Referendums
+
+
+## Party conventions
+
+- Held every four years
+- Delegates are elected in the state primaries and caucuses
+
+        - Delegates are pledged to support a candidate
+        - Delegates select the party’s nominee for president
+        - Delegates also draft the party platform
+        - Usually a formality
+        - In the past, conventions were more important
+
+- Rules set by party National Committees
+
+## Democratic Convention Rules
+
+- Superdelegate
+
+        - party leader or elected official who is automatically a delegate
+        - not pledged to support a candidate
+        - can vote for any candidate
+        -  out of total delegates       
+
+- 2020: 
+
+        - 771 superdelegates
+        - 3,979 pledged delegates
+        - 4,750 total delegates
+        
+- Superdelegates helped Independent Bernie Sanders in 2016 
+
+
+## Republican Convention Rules
+
+- Superdelegates are not used in the Republican Party
+- Former Democrat and Reform Party Member Donald Trump won the Republican nomination in 2016
+
+
+
+## Presidential General Election
+
+Electoral College
+
+        - Indirect election
+        - Candidate names are on the ballot
+        - We elected Electors pledged to those candidates
+        - Electors meet in December to cast their votes
+        - Congress counts the Electoral College votes in January
+        
+
+- Indirect election of the chief executive is not unique to the United States
+        
+        - The Electoral College is unique to the United States
+        - Most democracies are parliamentary systems where the chief executive is chosen by the legislature
+        - The Electoral College is a compromise between direct election and election by the legislature
+        - Preserves federalism and the power of the states
+        - Preserves the Separation of Powers (Congress role is extremely limited)
+
+## Election campaigns
+
+- Campaigns are long and expensive
+- Campaigns are run by professional staff
+- Campaigns are media-driven
+- Expensive campaigns favor incumbents over challengers
+
+        - incumbents: current officeholders
+        - challengers: candidates running against incumbents
+        
+- Incumbents have name recognition and a record to run on
+- Incumbents have access to campaign funds from PACs and other sources
+
+## Federal Election Campaign finncing
+
+- Campaign Finance Legal Framework
+
+        - Goes back to 1867
+        - Federal Election Campaign Act (1971)
+        - Federal Election Commission (1974)
+        - Bipartisan Campaign Reform Act (2002)
+        
+- Free speech issues
+        
+        - Citizens United v. FEC (2010)
+        - McCutcheon v. FEC (2014)
+        
+- Campaign finance entities
+
+        - Campaign committees
+        - Political Action Committees (PACs)
+        - Super PACs
+        - 501(c)(4) committees (IRS designation for a type of nonprofit social welfare organization)
+        
+## State and local elections
+
+- State and local governments have their own campaign finance laws for state and local races
+- We will discuss Texas elections in Module 3 after the exam
+
+## Authorship, License, and Credit
+
+[https://www.click2houston.com/news/local/2023/08/22/here-are-the-mayoral-candidates-for-the-2023-houston-election/](Mayoral Candidate Photos: KPRC-TV)
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+
