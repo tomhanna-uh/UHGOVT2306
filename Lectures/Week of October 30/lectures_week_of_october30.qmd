@@ -69,7 +69,7 @@ format:
         - 25 questions from Unit 3 (Texas) Chapters
         - 5 Second Chance questions from Exams 1 and 2 - topics and definitions will be posted in Canvas
         - Unit 1 to 3 questions will be in practice exam including Second Chance questions
-        - 15 current Texas politics questions from Unit 3 Lectures* - will not appear in Canvas other than slides
+        - 10 current Texas politics questions from Unit 3 Lectures* - will not appear in Canvas other than slides
 
         
         
@@ -77,8 +77,8 @@ format:
 
  - Unit 3 Lecture questions will not be surprises: For example, I might be talking about an action taken by the Governor of Texas, Greg Abbott, and say, "What is the name of the Governor of Texas? You should know that for the exam!" 
  
-                - Hint: Yes, you should know the current Governor, Lieutenant Governor, and Attorney General of Texas for the exam! 
- 
+<p id = "blink_text">Hint: Greg Abbott is the Governor of Texas!</p>
+
 - Second Chance or "I know it now" questions will be *important* questions widely missed on Exams 1 and 2. 
 
 ## Exam 2 Extra Credit
@@ -88,10 +88,177 @@ format:
 
 ## Texas Government
 
-        - Politics, Culture, and Economy of Texas
-        - Texas Constitution (begin)
+- Politics, Culture, and Economy of Texas
 
-## 
+        - Political Culture
+        - Regions
+        - Demographics
+
+        
+- Texas Constitution (begin)
+
+## Political Culture of Texas
+
+- Diverse political culture has two themes that are shared across party, ethnic, and religious lines
+
+        - Individualism
+        - Traditionalism
+        
+## Individualism
+
+- Grew from multiple sources
+
+        - Frontier experience of self-reliance
+        - Settlers looking for Economic opportunity (this continues today)
+        - American Revolutionary ideals
+        
+## Traditionalism
+
+- Grew from multiple sources
+
+        - Frontier experience of neighbors cooperating especially through churches
+        - Provincialism 
+        - Business dominance
+
+        
+        
+        
+## The cultures and partisan politics
+        
+- Before the 1990s, the Democratic Party appealed successfully to these cultures
+- Since 1990, the Republicans social conservative wing has connected with Texan's traditionalism
+- The Republicans business oriented wing has connected with Texan's individualism 
+- The national Democratic Party difficulty connecting: notable exceptions such as the Clintons and Obama
+
+
+## Regions of Texas
+
+![Regions of Texas map](region_map.png)
+
+
+## Regions of Texas
+
+![Permian Basin map](permian_basin.jpg)
+
+
+## The cultures and geography
+
+- Traditionalism 
+
+        - Interior Lowlands
+        - Great Plains
+        - Gulf Coastal Plains & Basin regiona - outside urban areas
+        
+- Individualism: discuss the following
+
+        - the specifics vary but this is a fundamental characteristic of Texas
+        - What about variation among demographic groups?        
+        - Native Texans and newly arrived Texans?
+
+
+## Texas Constitution: Origins
+
+- Texas has had 7 Constitutions
+
+        - 1827 - Constitution of Coahuila y Tejas
+        - 1836 - Constitution of the Republic of Texas
+        - 1845 - Constitution of the State of Texas
+        - 1861 - Constitution of the State of Texas
+        - 1866 - Constitution of the State of Texas
+        - 1869 - Constitution of the State of Texas
+        - 1876 - Constitution of the State of Texas
+
+## Origins: Mexican Rule and Independence
+
+- 1827: Texas was under Mexican rule as a province of New Spain, and its residents faced cultural and political differences, leading to tensions.
+
+- 1836: Texas Declaration of Independence was a pivotal moment, leading to the creation of the Republic of Texas as an independent nation.
+
+## Indepence: Republic of Texas
+
+- 1836 - 1845
+- Constitutional revision in 1839
+- American settlers
+- Heavily influenced by the U.S. Constitution and principles of government
+
+        - The Republic of Texas was modeled on the United States
+        - Washington and the east coast were geographically distant from Texas 
+        - Before railroads - first railroad in Teas was in 1853
+        - Before telegraph - first telegraph in Texas was in 1848
+
+## Origins: Annexation to the United States
+
+- 1845
+- New constitution for the State of Texas
+- Inspiration from the U.S. Constitution and other state constitutions.
+- Framework includes:
+        
+        - Separation of powers
+        - Checks and balances
+        - Bill of Rights
+        - Three branches
+        - Bicameral legislature
+        
+## Slavery in early Texas
+
+- There were about 5,000 slaves under Mexican rule
+- Slavery was legal across the Republic of Texas though practically existed in the eastern 2/5 of the state
+- Texas was admitted to the Union as a slave state
+- Abolished in practice by <p id = "blink_text">United States Army General Order No. 3</p> on June 19, 1865 issued from Galveston by United States Army Major General Gordon Granger 
+
+
+[Texas State Library Archives Commission: Slavery in Early Texas](https://www.tsl.texas.gov/treasures/earlystate/slavery-01.html)
+
+## General Order #3
+
+Galveston Texas June 19th 1865.
+
+General Orders
+
+     No. 3.
+
+          The people of Texas are informed that, in accordance with a proclamation from the Executive of the United States, all slaves are free. This involves an absolute equality of personal rights and rights of property between former masters and slaves, and the connection heretofore existing between them becomes that between employer and hired labor.
+
+               The freedmen are advised to remain quietly at their present homes and work for wages. They are informed that they will not be allowed to collect at military posts and that they will not be supported in idleness either there or elsewhere.
+
+          By order of Major General Granger
+
+                    F.W. Emery
+
+                    Major A.A. Genl.
+
+## Amendments and Revisions
+
+- 1861: Confederate Constitution of Texas (arguably never a legal Constitution of the State of Texas)
+- 1866: Constitution of the State of Texas
+- 1869: Constitution of the State of Texas
+
+        - explicitly abolished slaverey
+        - explicitly established civil rights for African Americans
+        - Reconstruction Constitution 
+        
+- 1876 Constitution of the State of Texas
+
+## 1876: Constitution of the State of Texas
+
+- Current Constitution of the State of Texas
+- Written in response to the Reconstruction Constitution of 1869
+- Designed to limit the power of the state government
+- Based on the U.S. Constitution and the 1845 Texas Constitution
+
+
+## 1876 Constitution of the State of Texas
+
+        - 3rd oldest state constitution in the U.S.
+        - 4th oldest constitution in the U.S.
+        - 5th oldest (written) constitution in the world
+        - 17 articles
+        - 491 amendments
+        - 87,000 words
+        - 6 times longer than the U.S. Constitution
+        - 2nd longest state constitution in the U.S.
+        - 2nd most amended state constitution in the U.S.
+
 
 
 

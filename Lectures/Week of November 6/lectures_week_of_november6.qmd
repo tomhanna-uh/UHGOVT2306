@@ -1,0 +1,377 @@
+---
+title: |
+    | Lectures Week of November 6
+    | Texas Government
+    | Part 1
+author: "GOVT2306, Instructor: Tom Hanna, Fall 2023, University of Houston"
+date: last-modified
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "GOVT2306, Fall 2023, Instructor: Tom Hanna"
+---
+
+
+## Announcements
+
+- 
+
+## Constitutional Principles in Texas: shared with U.S. Constitution
+
+- checks and balances
+- separation of powers
+- federalism
+- voting rights
+
+
+
+## Constitutional Principles in Texas
+
+- debtor relief
+- homestead protection
+- no personal income tax
+- no state debt
+- state ownership of mineral rights
+
+## Constitutional Principles: Annexation
+
+- Texas can be divided into as many as five states
+- Texas kept public lands
+- Texas kept mineral rights
+
+## Constitutional Principles: Post civil War
+
+- 1869 Constitution passed by US military without a vote of Texas citizens
+
+        - Guaranteed citizenship to African-Americans
+        - banned former Confederates from office
+        - declared U.S. Constitution supreme law of the land
+
+- 1876 Constitution passed by Texas citizens
+
+## Constitutional Principles: 1876
+
+- limited state government
+- plural executive
+- limited state debt
+- limited state taxes
+- limited state salaries
+- decentralized public education
+- pro-farmer
+
+        - homestead protections
+        - regulations on railroads
+        - regulations on banks
+        
+## Texas Constitution vs US Constitution
+
+- US Constitution Article I
+
+        - establishes Congress
+        - focuses on grants of power to government
+        
+- Texas Constitution Article I
+
+        - Bill of Rights
+        - focuses on limitations on government
+        
+## Texas Constitution vs US Constitution
+
+- US Constitution Article II            
+
+        - establishes the presidency
+        - focuses on grants of power to government
+        
+- Defines the powers of government
+
+        - focuses on separation of powers
+        - separation of powers intended to limit government
+        
+## Texas Constitution vs US Constitution
+
+- US Constitution Article I
+
+        - establishes the Congress
+        - lists Congressional powers
+        - structure of Congress - bicameral
+        - Congress not subject to executive
+        
+- Texas Constitution Article III
+        
+        - establishes the legislature
+        - lists legislative powers
+        - structure of legislature - bicameral
+        - limits length of sessions
+        - limits salaries of legislators
+        - legislature is subject to comptroller of public accounts
+
+## Texas Constitution vs US Constitution
+
+- US Constitution Article II
+
+        - establishes the presidency
+        - lists presidential powers
+        - structure of presidency - unitary
+
+        
+- Texas Constitution Article IV
+
+        - establishes the executive
+        - lists executive powers
+        - structure of executive - plural
+
+## Texas Constitution vs US Constitution
+
+- US President
+
+        - Elected Chief Executive
+        - President and Vice-President only elected executive branch officials
+        - Since 12th Amendment, President and Vice-President elected together (as a pair, from one party)
+        
+- Texas Executive: 6 elected executive officials
+
+        - All elected on their own right possibly different parties
+        
+## The Texas Plural Executive
+
+- Governor - Greg Abbott
+ <p id = "blink_text">Know the top 3</p>
+- Lieutenant Governor - ??
+
+## The Texas Plural Executive
+
+- Governor - Greg Abbott
+- Lieutenant Governor - Dan Patrick
+ <p id = "blink_text">Know the top 3</p>
+
+## The Texas Plural Executive
+
+- Governor - Greg Abbott
+- Lieutenant Governor - Dan Patrick
+- Attorney General - ??
+
+## The Texas Plural Executive
+
+- Governor - Greg Abbott
+- Lieutenant Governor - Dan Patrick
+- Attorney General - Ken Paxton
+ <p id = "blink_text">Know the top 3</p>
+
+ 
+## The Texas Plural Executive
+
+- Governor - Greg Abbott
+- Lieutenant Governor - Dan Patrick
+- Attorney General - Ken Paxton
+- Comptroller of Public Accounts - Glenn Hegar
+- Commissioner of the General Land Office - Dawn Buckingham, M.D.
+- Commissioner of Agriculture - Sid Miller
+
+## The Texas Plural Executive: Non-Article IV Officials
+
+- Railroad Commission - Christi Craddick (chair), Ryan Sitton, Wayne Christian
+
+
+## The Texas Plural Executive: Non-Article IV Officials
+
+- Railroad Commission - Christi Craddick (chair), Ryan Sitton, Wayne Christian
+
+<p id = "blink_text">Christi Craddick</p>
+
+- Regulates the oil and gas industry in Texas, which
+- would be the fourth largest COUNTRY in the world for oil and gas production
+
+        - The United States, Russia, Saudi Arabia, Texas
+        
+- No authority over railroads
+
+
+## The Texas Plural Executive: Non-Article IV Officials
+
+- Railroad Commission - Christi Craddick (chair), Ryan Sitton, Wayne Christian
+- State Board of Education - 15 members
+
+        
+## The Texas Plural Executive
+
+- Governor - Greg Abbott
+- Lieutenant Governor - Dan Patrick
+- Attorney General - Ken Paxton
+ 
+ <p id = "blink_text">Know the top 3</p>
+ 
+- Comptroller of Public Accounts - Glenn Hegar
+- Commissioner of the General Land Office - Dawn Buckingham, M.D.
+- Commissioner of Agriculture - Sid Miller
+
+## Texas Constitution vs US Constitution
+
+- US Constitution Article III
+
+        - establishes the judiciary
+        - lists judicial powers
+        - structure of judiciary - unitary
+        - One Supreme Court with inferior courts as established by Congress
+        - Judges appointed and serve for life
+        
+- Texas Constitution Article V
+
+        - establishes the judiciary
+        - lists judicial powers
+        - structure of judiciary - plural
+        - Two Supreme Courts
+        - lower courts defined in Constitution
+        - Judges elected and serve for fixed terms
+        
+## Texas Constitution vs US Constitution
+
+- Suffrage in US Constitution
+
+        - Article I - Congressional
+        - Article II - Presidential
+        - Amendments - 15th, 19th, 23rd, 24th, 26th
+        - Most details left to states
+
+- Texas Constitution
+
+        - Article VI
+        - Detailed provisions
+        - Covers elections and registration
+        
+## Texas Constitution vs US Constitution: Education
+
+- United States Constitution
+
+        - Completely silent on the matter
+        - Not a power granted to the federal government
+        - So, under the 10th Amendment, a power reserved to the states
+        - No legal federal role in education under the Constitution
+        
+- Texas Constitution: "An efficient system of free public schools" is a state responsibility
+
+        - Article VII
+        - Detailed provisions
+        - Covers public education, higher education, and school lands
+        
+## Texas Constitution vs US Constitution: Taxation
+
+- United States Constitution
+
+        - Article I, Section 8
+        - Grants Congress the power to tax
+        - Some stated limits on the power to tax
+        - Increased federal taxation power over the Articles of Conferation
+        - Amendments - 16th Amendment: Income Tax
+        
+- Texas Constitution
+
+        - Article VIII
+        - Covers state and local taxation
+        - Limits power to tax
+        - Makes taxation subject to popular vote
+        - Prohibits state income tax
+        
+## Texas Constitution vs US Constitution: Local Government
+
+- US Constitution
+
+        - Completely silent on the matter
+        - Local government is part of state government
+        
+- Texas Constitution
+
+        - Articles IX & XI
+        - Covers counties, cities, and special districts
+        - Detailed provisions
+        
+## Texas Constitution vs US Constitution: Impeachment
+
+- US Constitution
+
+        - Article II, Section 4
+        - President, Vice-President, and all civil officers of the United States
+        - House impeaches, Senate tries
+        - Conviction requires 2/3 vote of Senate
+        - Removal from office and disqualification from future office
+        - brief
+        
+- Texas Constitution
+
+        - All of Article XV
+        - Governor, Lieutenant Governor, Attorney General, Judges of the Supreme Court, Judges of the Court of Criminal Appeals, Judges of the Courts of Appeals, Judges of the District Courts, Judges of the County Courts, Judges of the County Courts at Law, Judges of the Statutory Probate Courts, Judges of the Justice Courts, Judges of the Municipal Courts, and any other state officer
+        - House impeaches, Senate tries
+        - Conviction requires 2/3 vote of Senate
+        - Removal from office and disqualification from future office
+        - detailed - an entire Article
+        
+## Texas Constitution vs US Constitution: Level of detail, breadth of topics
+
+- US Constitution
+
+        - 7 Articles
+        - 27 Amendments
+        - 7,591 words
+        - 4,543 words in Articles
+        - 3,048 words in Amendments
+        
+- Texas Constitution
+
+        - 17 Articles
+        - 498 Amendments
+        - 86,936 words
+        - 83,550 words in Articles
+        - 3,386 words in Amendments
+        
+## Texas Constitution vs US Constitution: Size and detail
+
+Because the federal Constitution left most powers to the states,
+
+<p id = "blink_text">the Texas Constitution is almost 20 times as long as the US Constitution</p>
+
+the Texas Constitution is almost 20 times as long as the US Constitution.
+
+
+
+## Texas Constitution vs US Constitution: Size and Detail
+
+Because of federalism, the US Constitution is concerned with broad principles of a purposely limited federal  government, while the Texas Constitution provides extensive details of a more powerful government's policies. As a result...
+
+<p id = "blink_text">the Texas Constitution is almost 20 times as long as the US Constitution</p>
+        
+## Texas Constitution vs US Constitution: Amendment process
+
+- US Constitution
+
+        - Article V
+        - 2/3 vote of both houses of Congress
+        - 3/4 of state legislatures
+        - 2/3 of state conventions
+        
+- Texas Constitution
+
+        - Article XVII
+        - 2/3 vote of both houses of Texas Legislature
+        - Twice published in recognized newspapers
+        - Majority vote of Texas voters
+        
+## Texas Constitution: Other topics
+
+- Article 10: Railroads
+- Article 12: Private Corporations
+- Article 13: Spanish and Mexican Land Titles
+- Article 14: Public Lands and Land Office
+- Article 16: General Provisions
+
+
+        
+        
+
+
+        
+        
+        
+
+## Topics

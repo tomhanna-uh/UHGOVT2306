@@ -49,3 +49,18 @@ $code-block-border-color: #000000;
   height: 205px;
   border: 2px solid;
 }
+
+#blink_text{	
+  animation-name:blink;
+  width:750px;
+  text-align: center;
+  animation-duration:2s;
+  animation-timing-function:ease-in;
+  animation-iteration-count:Infinite;
+  }
+
+@keyframes blink{
+  0%{color:red;}
+  50%{color:white;}
+  100%{color:red;}
+}
