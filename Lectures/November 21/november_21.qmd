@@ -1,0 +1,279 @@
+---
+title: |
+    | Lectures Week of November 6
+    | Texas Government
+    | Part 1
+author: "GOVT2306, Instructor: Tom Hanna, Fall 2023, University of Houston"
+date: last-modified
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "GOVT2306, Fall 2023, Instructor: Tom Hanna"
+---
+
+## Agenda
+
+Today:
+
+- Announcements
+- Unit 1 Lecture Questions Review
+- Second Chance Questions Review
+- Texas Politics Questions Review
+
+Next Tuesday:
+
+- Unit 1 and 2 Questions Review
+
+## Announcements
+
+- I will be eliminating some questions that were widely missed on Exams 1 and 2 from the test bank, but not all. This can *only* help your scores.
+- Not responding to emails about the final. I have provided written Announcements, written material in lecture slides available on Canvas, and class announcements.
+- Final is November 30, in the classroom, on Scantrons provided by the department.
+- Everything else you need to know, you can find multiple places in Canvas.
+
+# Unit 1 Lecture Questions Review
+
+
+## Question 1. (1 point) 
+
+Of the following four categories of federal spending, which does the federal government spend the most money on considering the total budget (all spending, discretionary
+and nondiscretionary combined)?
+
+        A. Defense
+        B. Veteran’s Benefits
+        C. Healthcare **
+        D. Police
+
+## Question 2. (1 point) 
+Early in the semester, we covered the classical liberal, enlightenment roots of America’s founding documents. Classical liberalism prioritizes protecting individuals
+against which of the following:
+
+        A. poverty
+        B. disease
+        C. government use of coercive force or violence **
+        D. economic inequality
+        
+## Question 3. (1 point) 
+James Madison famously described the system of representative government in the Constitution as a Republic and contrasted it with a form of unlimited, majoritarian
+government which he labeled democracy. Which of the following characteristics of
+modern liberal democracy are shared with Madison’s Republic? (Choose all that apply)
+
+        A. Opposition to one party rule **
+        B. Protection of property rights **
+        C. Protection of basic civil liberties **
+        D. Representative government **
+        E. Protection of political minorities **
+
+
+## Question 4. (1 point) 
+The Constitution includes a system of dividing the authority for specific government functions among different branches of government and two chambers of Congress.
+This method of division of authority is commonly called:
+
+        A. The Veto
+        B. Separation of Powers **
+        C. The Power of the Purse
+        D. The Necessary and Proper Clause
+
+## Question 5. (1 point) 
+Limiting government is often considered important for many reasons, but one
+very important reason is that limiting government is by the definition of government:
+
+        A. improving healthcare
+        B. limiting organized violence **
+        C. improving diversity
+        D. improving incomes
+
+## Question 6. (1 point) 
+The Constitution divides power in a number of ways. One of these is the
+division of power between State and Federal levels of government. This is called:
+
+        A. Checks and balances
+        B. Judicial review
+        C. Federalism **
+        D. Local power
+
+## Question7. (1 point) 
+Which of the following is a tool unique to government?
+
+        A. organization
+        B. legitimate use of violence **
+        C. leadership
+        D. cooperation
+        E. persuasion
+
+## Question8. (1 point) 
+When we see a problem and decide to ask government to solve it rather than
+use voluntary action through groups like community associations, charities, or volunteer
+groups, what tool is government likely to use that the other groups do not have at their
+disposal?
+
+        A. the media
+        B. money
+        C. organization
+        D. the police and prison system **
+
+
+## Question9. (1 point) 
+What can government legitimately do that private charities, corporations,
+small businesses, churches, families, community groups, and volunteer organizations can
+not do?
+
+        A. use violence to coerce people **
+        B. organize people
+        C. help people
+        D. solve problems
+
+## Question10. (1 point) 
+The Constitutional provisions for Presidential vetos, overrides of vetoes by
+Congress, and impeachment are all examples of:
+
+        A. poor governance
+        B. outdated thinking
+        C. Checks and Balances **
+        D. Presidential power
+
+# Second Chance Questions Review
+
+## Question1. 
+Under the original Constitution, Congress could not ban the slave trade until:
+
+        A. 1865
+        B. 1808 **
+        C. 1921
+        D. 1945
+
+## Question2. 
+The writers of the Constitution used the term________ for a form of government that consists of carefully designed institutions that are responsive to the majority but not captive to it.
+
+        A. Republic **
+        B. Monarchy
+        C. Democracy
+        D. Oligarchy
+
+
+## Question3. 
+The right to an attorney is guaranteed by the________ Amendment.
+
+        A. First
+        B. Second
+        C. Tenth
+        D. Sixth **
+
+## Question4. 
+When the nation was founded, who was eligible to vote?
+
+        A. everyone—there was universal suffrage
+        B. all males and females who were at least 21 years of age
+        C. only males who owned property **
+        D. only citizens who had lived in the nation for at least 10 years
+        E. all native-born citizens
+
+## Question 5. 
+African American men technically gained suffrage with passage of the________ Amendment.
+
+        A. 12th
+        B. 10th
+        C. 15th **
+        D. 26th
+
+
+
+# Texas Politics Questions Review
+
+## Question1. 
+Who is the current Governor of Texas?
+
+        A. Greg Abbott ** 
+        B. Dan Patrick
+        C. Beto O'Rourke
+        D. Ted Cruz
+        
+## Question2. 
+Who is the current Lieutenant Governor of Texas?
+
+        A. Greg Abbott
+        B. Dan Patrick **
+        C. Ken Paxton
+        D. Sylvester Turner
+        
+
+## Question3. 
+Which of the following does the Texas Railroad Commission actually regulate today?
+
+        A. Railroads
+        B. Oil and Gas **
+        C. Trucking
+        D. Pipelines
+        
+## Question4. 
+Who is the current Attorney General of the State of Texas?
+
+        A. Greg Abbott
+        B. Dan Patrick
+        C. Ken Paxton **
+        D. Ann Richards
+        
+## Question5. 
+Harris County is the largest county by population in the state of Texas. Which of the following is true of the County Judge of Harris County? (Select all that apply)
+
+        A. The County Judge is the chief executive of the county. **
+        B. The County Judge is the presiding officer of the Commissioners Court. **
+        C. The County Judge does not preside over trials **
+        D. The current Judge is Lina Hidalgo. **
+        
+## Question 6. 
+The Texas Railroad Commission currently regulates the Texas oil and gas industry not railroads. The commissioners are elected directly for 6 year terms and do not answer to the Governor. In class, I said this makes the current Chair of the Commission one of the most powerful women in the world. Who is the current Chair?
+
+        A. Kay Bailey Hutchison
+        B. Lina Hidalgo
+        C. Greg Abbott
+        D. Christi Craddick **
+        
+## Question 7. 
+Who was the first female Senator in Texas history?
+
+        A. Annise Parker
+        B. Lina Hidalgo
+        C. Ann Richards
+        D. Kay Bailey Hutchison **
+        
+## Question 8. 
+This November Houston had a Mayoral election to select the successor to current Mayor Sylvester Turner. No candidate won a majority, so two candidates will face in a run-off election on December 7. One is State Senator John Whitmire. The other is a current United States Member of Congress from Houston. What is her name?
+
+        A. Taylor Swift
+        B. Lina Hidalgo
+        C. Sheila Jackson Lee
+        D. Greg Abbott
+
+## Question 9. 
+Texas was the second state in the United States to elect a female Governor, under unusual circumstances. Her husband was a former Governor who had been impeached, convicted, and barred from holding future office. She campaigned on the slogan of "two governors for the price of one." She served two non-consecutive terms from January 20, 1925 – January 18, 1927 and January 17, 1933 – January 15, 1935. What was her name?
+
+        A. Ann Richards
+        B. Miriam Ferguson **
+        C. Ted Cruz
+        D. Lina Hidalgo
+        
+
+## Question 10. 
+
+At the federal level, the President is the unitary Chief Executive, the only elected official with executive responsibility...
+In Texas, six executive officials are elected in their own right and answer directly to the people. The federal system is called a "unitary executive." The state system is called ______. 
+
+        A. many officeholders
+        B. a plural executive **
+        C. splitting up the power
+        D. Governor Plus 5
+        
+
+## Authorship and License
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>

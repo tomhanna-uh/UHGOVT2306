@@ -1,0 +1,324 @@
+---
+title: |
+    | November 28 Lecture 
+    | Final Exam Review
+author: "GOVT2306, Instructor: Tom Hanna, Fall 2023, University of Houston"
+date: last-modified
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "GOVT2306, Fall 2023, Instructor: Tom Hanna"
+---
+
+## Agenda and Announcements
+
+- Final Thursday, November 30, regular class time in the regular classroom
+- No makeups, exemptions or exceptions
+- You need two to three sharp, #2 lead pencils and your Cougar ID
+- Today: Unit 1 and 2 review
+
+# Unit 1 Review
+
+## Question 1.
+
+Who among the following was the chief architect of the U.S. Constitution and also one of America's top political scientists?
+
+        A. James Madison **
+        B. Andrew Jackson
+        C. Woodrow Wilson
+        D. Trent Reznor
+
+## Question 2. 
+
+Which important aspect of European thought had the greatest impact on the formation of the political culture of America?
+
+
+        A. The Enlightenment **
+        B. Romanticism
+        C. The Renaissance
+        D. The Reformation
+        E. Rationalism
+
+## Question 3. 
+
+Which of the following is NOT one of the core values of American political culture?
+
+        A. Cooperation **
+        B. Individualism
+        C. Equality
+        D. Self-government
+        E. Liberty
+
+## Question 4. 
+
+According to the Declaration of Independence, governments get their "just powers" from:
+
+        A.  "God Almighty"
+        B. The "various factions"
+        C. "the consent of the governed" **
+        D. The benevelonce of a just king
+        E. The teachings of Jesus Christ
+
+## Question 5. 
+
+Critical thinking is best described as:
+
+        A. the process of forming an opinion after weighing the relevant facts. **
+        B. discounting the news from ordinary media outlets.
+        C. rejecting the accounts of bureaucrats and finding alternative versions online.
+        D. assuming that all news presents lies until alternative truths present themselves.
+        E. trusting your instincts on the way the world works.
+
+## Question 6. 
+
+The idea that government should be restricted in its lawful uses of power and hence in its ability to deprive people of their liberty is expressed by the term
+
+        A. limited government **
+        B. judicial review
+        C. federalism
+        D. self-government
+
+## Question 7. 
+
+The Great Compromise produced
+
+        A. checks and balances
+        B. the abolition of slavery
+        C. a bicameral Congress **
+        D. separation of powers
+        E. federalism
+
+## Question 8. 
+
+Most Anti-Federalists feared that the new government would be dominated by:
+
+        A. political elites **
+        B. farmers
+        C. clergymen
+        D. political factions 
+        E. debtors
+
+## Question 9. 
+
+According to the Anti-Federalists, too strong of a national government meant:
+
+        A. eventual encroachment upon the sovereignty of the states. **
+        B. that a new constitutional convention would have to convene every few years.
+        C. that a monarchy was preferable to a republic.
+        D. that effective commerce between and among the states was an impossibility.
+        E. that slavery would be abolished immediately.
+
+## Question 10. 
+
+The doctrine of nullification is most closely associated with:
+
+        A. George Washington
+        B. John C. Calhoun **
+        C. Roger Taney
+        D. Andrew Jackson
+
+## Question 11. 
+
+Through its Dred Scott decision, the Supreme Court:
+
+        A. ruled that "free land" made "free men."
+        B. Upheld free blacks rights of citizenship
+        C. upheld the principles of the Missouri Compromise.
+        D. Soothed sectarian tensions
+        E. ruled that Congress could not outlaw slavery anywhere in the United States. **
+
+## Question 12. 
+
+The term civil liberties refers to specific individual rights that:
+
+        A. apply in civil cases but not in criminal cases.
+        B. apply in civil cases but not in military ones.
+        C. are constitutionally protected from infringement by government. **
+        D. are constitutionally protected from infringement by individuals.
+        E. are not covered by the First Amendment.
+
+## Question 13. 
+
+In Mapp v. Ohio, the selective incorporation process was extended to include:
+
+        A. Criminal proceedings in the states. **
+        B. Civil proceedings
+        C. pleas of insanity
+        D. children (minors) accused of crime.
+        E. indigent litigants
+
+## Question 14. 
+
+During the March on Washington for Jobs and Freedom, the important speech about the dream of an America where people are judged by character and not skin color was delivered by:
+
+        A. Jesse Jackson
+        B. Thurgood Marshall
+        C. Martin Luther King, Jr. **
+        D. John F. Kennedy
+        E. Robert Kennedy
+
+
+## Question 15. 
+
+The movement for women's rights was initially aligned with:
+
+        A. The abolition movement **
+        B. The Progressive movement.
+        C. The labor movement.
+        D. The modern civil rights movement.
+        E. The modern environmental movement.
+
+# Unit 2
+
+## Question 1. 
+
+Party identification refers to:
+
+        A. the percentage of polled individuals that claim membership in a particular party.
+        B. Formal membership in a political party
+        C. a person's sense of loyalty to a political party. **
+        D. the ability of individual people to identify the major issue positions of the major political parties.
+        E. a political party's platform—the stances on issues that define its beliefs.
+
+## Question 2. 
+
+Currently, the greatest percentage of Americans identify as:
+
+        A. Democrats or leaning Democrat. **
+        B. Republicans or leaning Republican.
+        C. fully independent
+        D. Libertarian
+        E. Populist
+
+## Question 3. 
+
+Which of the following statements about Americans and ideology and political thinking is true?
+
+        A. Liberalism and conservatism have such imprecise meanings that it is not useful to think about politics in these terms
+        B. Americans overwhelmingly identify themselves as liberals.
+        C. Americans' political ideologies tend to go through one major left-to-right or right-to-left switch in their lives.
+        D. Most Americans do not demonstrate blind faith in their party of choice. **
+        E. Americans are highly consistent in party identification and are rarely influenced by policies or candidates.
+
+## Question 4. 
+
+Yellow journalism contributed most notably to public support for the
+
+        A. Spanish-American War **
+        B. Civil War
+        C. War of 1812
+        D. Mexican War of 1848
+        E. American Revolution
+
+## Question 5. 
+
+Which institution receives the most news coverage from the national press?
+
+        A. The Presidency ** 
+        B. The US House of Representatives
+        C. The Supreme Court
+        D. The US Senate
+        E. The federal bureaucracy
+
+## Question 6.
+
+Which of the following is associated with people's exposure to partisan news outlets?
+
+        A. misunderstanding of their own party's philosophy
+        B. gaining a more nuanced view of opposing political opinions
+        C. greater political interest and engagement **
+        D. the formation of less extreme political opinions
+        E. a lower level of news consumption
+
+## Question 7. 
+
+Voter turnout is LOWEST in which age group?
+
+        A. young adults **
+        B. Middle aged adults
+        C. Older adults
+        D. Senior citizens
+        E. Voter turnout is essentially the same for all age groups.
+
+## Question 8. 
+
+Which of the following beliefs is widespread among Americans, according to a poll conducted by Stanford University?
+
+        A. Governments routinely practice election fraud.
+        B. Americans are less likely to commit voter fraud than Europeans.
+        C. Americans carry out a meaningful amount of voter fraud every year. **
+        D. The American government protects fair elections worldwide.
+        E. It is normal for presidents to reject election results on allegations of fraud.
+
+## Question 9. 
+
+The Tea Party's key initial issue was:
+
+        A. support for American military involvement in Iraq.
+        B. support for American military involvement in Afghanistan.
+        C. Opposition to high taxes **
+        D. opposition to the Occupy Wall Street movement.
+        E. opposition to President Obama's climate change policies.
+
+## Question 10.
+
+The issue of slavery gave birth to the________ Party as a major political party.
+
+        A. Republican **
+        B. Democrat
+        C. Federalist
+        D. Whig
+        E. Populist
+
+## Question 11. 
+
+________ was the only Republican elected president from 1932 to 1964.
+
+        A. Dwight D. Eisenhower **
+        B. Richard Nixon
+        C. Barry Goldwater
+        D. Herbert Hoover
+        E. Calvin Coolidge
+
+## Question 12.
+
+________ does NOT have a competitive multiparty system.
+
+        A. Norway
+        B. Germany
+        C. Canada
+        D. The United States **
+        E. The Netherlands
+
+## Question 13. 
+
+Which of the following statements about political participation and lower-income Americans is true?
+
+        A. They need the most government help but are least likely to engage in collective action to seek it. **
+        B. They are best positioned to participate politically but show the highest level of apathy toward participation.
+        C. Americans in the bottom fifth of income levels are twice as likely to engage in public protest as those in the top fifth.
+        D. Despite lower voting turnout levels, the high visibility of lower-income Americans leads to them having political influence roughly equal to that of wealthy Americans.
+        E. They are more sought out by state and local governments, with the intent to register them as voters, than are wealthier Americans.
+
+## Question 14. 
+
+A sustained action taken by citizens disenchanted with government in order to express their opposition and work to bring about social or political change is a:
+
+        A. Political movement **
+        B. Voter upsurge
+        C. citizen lobby
+        D. popular resistance
+        E. regular election
+
+## Question 15. 
+
+Early American newspapers:
+
+        A. were written and copied by hand.
+        B. were so inexpensive that nearly everyone read a daily paper.
+        C. could not have survived without political party support. **
+        D. were more widely read than today's papers.
+        E. None of these answers are correct.

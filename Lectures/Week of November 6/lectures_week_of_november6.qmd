@@ -374,4 +374,115 @@ Because of federalism, the US Constitution is concerned with broad principles of
         
         
 
-## Topics
+# November 7 Texas Election
+
+## Proposition 5
+
+<embed src="https://player.vimeo.com/video/881777078?h=9bdf8fe138&badge=0&autopause=0&quality_selector=1&player_id=0&app_id=58479" type="application/pdf" width="1200" height="600">
+
+
+
+## Houston Mayor's Race
+
+Runoff - December 9
+
+- Us Representative Sheila Jackson Lee: 89,773 votes, 35.63%
+- State Senator John Whitmire: 	107,097 votes, 42.51%
+
+[Source: Texas Tribune](https://www.texastribune.org/2023/11/07/houston-mayor-race-2024-results/)
+
+## Houston Mayor's Race
+
+Other candidates:
+
+        - Gilbert Garcia	18,165	7.21%
+        - Jack Christie	17,314	6.87%
+        - Lee Kaplan	6,613	2.62%
+        - Robert Gallegos	2,671	1.06%
+        - M.J. Khan	2,476	0.98%
+        - Annie Garcia	1,970	0.78%
+        - Julian Martinez	1,809	0.72%
+        - Roy Vasquez	1,080	0.43%
+        - M. Griffin	671	0.27%
+        - Kathy Tatum	530	0.21%
+        - David Lowy	366	0.15%
+        - Chanel Mbala	356	0.14%
+        - Naoufal Houjami	351	0.14%
+        - Gaylon Caldwell	330	0.13%
+        - B. Ivy	286	0.11%
+        - Robin Williams	94	0.04%
+
+
+
+## Houston Mayor's Race: Turnout
+
+"Harris County has about 500,000 more registered voters than it did in 2015, which was the last time the county's largest city had an open mayoral seat on the ballot."
+
+[Houston Public Media](https://www.houstonpublicmedia.org/articles/news/politics/elections/2023/11/06/468695/houston-early-voting-turnout-2023-disengagement-mayor-race/)
+
+Total Harris County vote was: 247,198
+
+[Harris County Clerk](https://www.harrisvotes.com/Election-Results/Live-Results)
+
+
+## Houston Mayor's Race: By County
+
+[NBC News](https://www.nbcnews.com/politics/2023-elections/houston-mayor-results#mayor)
+
+## Other local elections
+
+
+- Houston City Council
+- Houston Controller
+- Bellaire Mayor & City Council
+- Most mayors and city councils in the area...
+
+## Other local issues
+
+- Harris County Hospital District Funding 
+
+        - $2.5 billion bond to expand Harris County Health System
+        
+- Houston Proposition A - 3 city council members can request an item be added to city council agenda
+- Houston Proposition B - Requires city of Houston to negotiation for voting proportional to population in any regional government the City joins (such as Metro or the Houston-Galveston Council) 
+
+...and others
+
+
+
+## Other Constitutional propositions
+
+13 passed, 1 failed
+
+- Failed: Proposition 13 to raise minimum and mandatory retirement ages for judges failed
+
+[Texas Tribune](https://www.texastribune.org/2023/11/07/texas-constitutional-amendment-election-results/)
+
+## Other Constitutional propositions: passed
+
+- 4 either cut or limited taxes including $18 billion in property tax relief          
+
+- 6 new state funds
+
+        - Texas University Fund - $3.9 billion
+        - Texas Water Development Fund - $2 billion
+        - Energy fund - $10 billion ($1.8 b for critical infrastructure)
+        - Broadband infrastructure fund - $1.5 billion
+        - State parks conservation fund - $1 billion
+
+- El Paso area conservation fund authorization
+
+- Cost of living raises for some retired teachers
+
+[Texas Tribune](https://www.texastribune.org/2023/11/07/texas-constitutional-amendment-election-results/)
+
+
+## Authorship and License
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
